@@ -1,410 +1,410 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="001"  tvg-name="¹ã¶«ÎÀÊÓ" group-title="ÖĞ¹ú",¹ã¶«ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315482874388048.png"
+#EXTINF:-1 tvg-id="001" tvg-name="å¹¿ä¸œå«è§†" group-title="ä¸­å›½",å¹¿ä¸œå«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315482874388048.png"
 http://192.168.96.1:8888/rtp/239.10.0.141:1025
-#EXTINF:-1 tvg-id="002"  tvg-name="¹ã¶«Öé½­" group-title="ÖĞ¹ú",¹ã¶«Öé½­  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315503847171988.png"
+#EXTINF:-1 tvg-id="002" tvg-name="å¹¿ä¸œç æ±Ÿ" group-title="ä¸­å›½",å¹¿ä¸œç æ±Ÿ tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315503847171988.png"
 http://192.168.96.1:8888/rtp/239.10.0.121:1025
-#EXTINF:-1 tvg-id="003"  tvg-name="¹ã¶«ĞÂÎÅ" group-title="ÖĞ¹ú",¹ã¶«ĞÂÎÅ  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315494277527597.png"
+#EXTINF:-1 tvg-id="003" tvg-name="å¹¿ä¸œæ–°é—»" group-title="ä¸­å›½",å¹¿ä¸œæ–°é—» tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315494277527597.png"
 http://192.168.96.1:8888/rtp/239.10.0.122:1025
-#EXTINF:-1 tvg-id="004"  tvg-name="¹ã¶«¹«¹²" group-title="ÖĞ¹ú",¹ã¶«¹«¹²  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315453394478464.png"
+#EXTINF:-1 tvg-id="004" tvg-name="å¹¿ä¸œå…¬å…±" group-title="ä¸­å›½",å¹¿ä¸œå…¬å…± tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315453394478464.png"
 http://192.168.96.1:8888/rtp/239.10.0.123:1025
-#EXTINF:-1 tvg-id="005"  tvg-name="¹ã¶«ÌåÓı" group-title="ÖĞ¹ú",¹ã¶«ÌåÓı  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315461510589848.png"
+#EXTINF:-1 tvg-id="005" tvg-name="å¹¿ä¸œä½“è‚²" group-title="ä¸­å›½",å¹¿ä¸œä½“è‚² tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315461510589848.png"
 http://192.168.96.1:8888/rtp/239.10.0.124:1025
-#EXTINF:-1 tvg-id="007"  tvg-name="¹ã¶«¾­¼Ã¿Æ½Ì" group-title="ÖĞ¹ú",¹ã¶«¾­¼Ã¿Æ½Ì  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315551221840216.png"
+#EXTINF:-1 tvg-id="007" tvg-name="å¹¿ä¸œç»æµç§‘æ•™" group-title="ä¸­å›½",å¹¿ä¸œç»æµç§‘æ•™ tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315551221840216.png"
 http://192.168.96.1:8888/rtp/239.10.0.201:1025
-#EXTINF:-1 tvg-id="008"  tvg-name="¹ã¶«ÄÏ·½ÎÀÊÓ" group-title="ÖĞ¹ú",¹ã¶«ÄÏ·½ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315591635533150.png"
+#EXTINF:-1 tvg-id="008" tvg-name="å¹¿ä¸œå—æ–¹å«è§†" group-title="ä¸­å›½",å¹¿ä¸œå—æ–¹å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315591635533150.png"
 http://192.168.96.1:8888/rtp/239.10.0.135:1025
-#EXTINF:-1 tvg-id="010"  tvg-name="¹ã¶«Ó°ÊÓ" group-title="ÖĞ¹ú",¹ã¶«Ó°ÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315500857181671.png"
+#EXTINF:-1 tvg-id="010" tvg-name="å¹¿ä¸œå½±è§†" group-title="ä¸­å›½",å¹¿ä¸œå½±è§† tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315500857181671.png"
 http://192.168.96.1:8888/rtp/239.10.0.127:1025
-#EXTINF:-1 tvg-id="011"  tvg-name="¹ã¶«ÉÙ¶ù" group-title="ÖĞ¹ú",¹ã¶«ÉÙ¶ù  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315460288329548.png"
+#EXTINF:-1 tvg-id="011" tvg-name="å¹¿ä¸œå°‘å„¿" group-title="ä¸­å›½",å¹¿ä¸œå°‘å„¿ tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315460288329548.png"
 http://192.168.96.1:8888/rtp/239.10.0.128:1025
-#EXTINF:-1 tvg-id="012"  tvg-name="¹ã¶«¼Î¼Ñ¿¨Í¨" group-title="ÖĞ¹ú",¹ã¶«¼Î¼Ñ¿¨Í¨  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315544962636277.png"
+#EXTINF:-1 tvg-id="012" tvg-name="å¹¿ä¸œå˜‰ä½³å¡é€š" group-title="ä¸­å›½",å¹¿ä¸œå˜‰ä½³å¡é€š tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315544962636277.png"
 http://192.168.96.1:8888/rtp/239.10.0.129:1025
-#EXTINF:-1 tvg-id="016"  tvg-name="ÄÏ·½¹ºÎï-¾«Ñ¡" group-title="ÖĞ¹ú",ÄÏ·½¹ºÎï-¾«Ñ¡  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-06-07/94fe650b-2744-4d09-8b3a-4829ef9d092a.png"
+#EXTINF:-1 tvg-id="016" tvg-name="å—æ–¹è´­ç‰©-ç²¾é€‰" group-title="ä¸­å›½",å—æ–¹è´­ç‰©-ç²¾é€‰ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-06-07/94fe650b-2744-4d09-8b3a-4829ef9d092a.png"
 http://192.168.96.1:8888/rtp/239.11.0.95:1025
-#EXTINF:-1 tvg-id="018"  tvg-name="ÒÆ¶¯ÆµµÀ" group-title="ÖĞ¹ú",ÒÆ¶¯ÆµµÀ  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315594287846170.png"
+#EXTINF:-1 tvg-id="018" tvg-name="ç§»åŠ¨é¢‘é“" group-title="ä¸­å›½",ç§»åŠ¨é¢‘é“ tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315594287846170.png"
 http://192.168.96.1:8888/rtp/239.10.0.143:1025
-#EXTINF:-1 tvg-id="022"  tvg-name="¹ãÖİ×ÛºÏ" group-title="ÖĞ¹ú",¹ãÖİ×ÛºÏ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/781077eb-cce1-4036-b295-307d5e872d26.png"
+#EXTINF:-1 tvg-id="022" tvg-name="å¹¿å·ç»¼åˆ" group-title="ä¸­å›½",å¹¿å·ç»¼åˆ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/781077eb-cce1-4036-b295-307d5e872d26.png"
 http://192.168.96.1:8888/rtp/239.11.0.133:1025
-#EXTINF:-1 tvg-id="023"  tvg-name="¹ãÖİĞÂÎÅ" group-title="ÖĞ¹ú",¹ãÖİĞÂÎÅ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/8e16a44b-25f9-442d-b9e6-bb0a7a584b90.png"
+#EXTINF:-1 tvg-id="023" tvg-name="å¹¿å·æ–°é—»" group-title="ä¸­å›½",å¹¿å·æ–°é—» tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/8e16a44b-25f9-442d-b9e6-bb0a7a584b90.png"
 http://192.168.96.1:8888/rtp/239.11.0.134:1025
-#EXTINF:-1 tvg-id="024"  tvg-name="¹ãÖİÓ°ÊÓ" group-title="ÖĞ¹ú",¹ãÖİÓ°ÊÓ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/4cb18dce-4cf8-4586-96d2-6f8e0ec694ea.png"
+#EXTINF:-1 tvg-id="024" tvg-name="å¹¿å·å½±è§†" group-title="ä¸­å›½",å¹¿å·å½±è§† tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/4cb18dce-4cf8-4586-96d2-6f8e0ec694ea.png"
 http://192.168.96.1:8888/rtp/239.11.0.135:1025
-#EXTINF:-1 tvg-id="025"  tvg-name="¹ãÖİ·¨ÖÎ" group-title="ÖĞ¹ú",¹ãÖİ·¨ÖÎ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/544f61ce-e1a8-4c22-ad40-956c0f05b3d2.png"
+#EXTINF:-1 tvg-id="025" tvg-name="å¹¿å·æ³•æ²»" group-title="ä¸­å›½",å¹¿å·æ³•æ²» tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/544f61ce-e1a8-4c22-ad40-956c0f05b3d2.png"
 http://192.168.96.1:8888/rtp/239.11.0.136:1025
 http://192.168.96.1:8888/rtp/239.11.0.69:1025
-#EXTINF:-1 tvg-id="044"  tvg-name="½­ÃÅ¹«¹²" group-title="ÖĞ¹ú",½­ÃÅ¹«¹²  tvg-logo="http://183.235.16.92:8081/pics/category/202007/10/2020071011262951931856.png"
+#EXTINF:-1 tvg-id="044" tvg-name="æ±Ÿé—¨å…¬å…±" group-title="ä¸­å›½",æ±Ÿé—¨å…¬å…± tvg-logo="http://183.235.16.92:8081/pics/category/202007/10/2020071011262951931856.png"
 http://192.168.96.1:8888/rtp/239.11.0.70:1025
-#EXTINF:-1 tvg-id="045"  tvg-name="½­ÃÅ½ÌÓı" group-title="ÖĞ¹ú",½­ÃÅ½ÌÓı  tvg-logo="http://183.235.16.92:8081/pics/category/202007/10/2020071011261380447855.png"
+#EXTINF:-1 tvg-id="045" tvg-name="æ±Ÿé—¨æ•™è‚²" group-title="ä¸­å›½",æ±Ÿé—¨æ•™è‚² tvg-logo="http://183.235.16.92:8081/pics/category/202007/10/2020071011261380447855.png"
 http://192.168.96.1:8888/rtp/239.11.0.71:1025
-#EXTINF:-1 tvg-id="056"  tvg-name="ÔÆ¸¡×ÛºÏ" group-title="ÖĞ¹ú",ÔÆ¸¡×ÛºÏ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-09-10/bca9db4a-77d7-4531-944f-022477c97499.png"
+#EXTINF:-1 tvg-id="056" tvg-name="äº‘æµ®ç»¼åˆ" group-title="ä¸­å›½",äº‘æµ®ç»¼åˆ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-09-10/bca9db4a-77d7-4531-944f-022477c97499.png"
 http://192.168.96.1:8888/rtp/239.11.0.76:1025
-#EXTINF:-1 tvg-id="057"  tvg-name="ÔÆ¸¡¹«¹²" group-title="ÖĞ¹ú",ÔÆ¸¡¹«¹²  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-09-10/3c3f8ca9-b6ed-4198-93d2-c3f4500c340e.png"
+#EXTINF:-1 tvg-id="057" tvg-name="äº‘æµ®å…¬å…±" group-title="ä¸­å›½",äº‘æµ®å…¬å…± tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-09-10/3c3f8ca9-b6ed-4198-93d2-c3f4500c340e.png"
 http://192.168.96.1:8888/rtp/239.11.0.77:1025
-#EXTINF:-1 tvg-id="058"  tvg-name="Ã¯Ãû×ÛºÏ" group-title="ÖĞ¹ú",Ã¯Ãû×ÛºÏ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/85a22190-94cb-4b23-b98c-9ed2c7750817.png"
+#EXTINF:-1 tvg-id="058" tvg-name="èŒ‚åç»¼åˆ" group-title="ä¸­å›½",èŒ‚åç»¼åˆ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/85a22190-94cb-4b23-b98c-9ed2c7750817.png"
 http://192.168.96.1:8888/rtp/239.10.0.239:1025
-#EXTINF:-1 tvg-id="059"  tvg-name="Ã¯Ãû¹«¹²" group-title="ÖĞ¹ú",Ã¯Ãû¹«¹²  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/e71bbf1f-0c1e-4dda-8d08-1ac4020aac79.png"
+#EXTINF:-1 tvg-id="059" tvg-name="èŒ‚åå…¬å…±" group-title="ä¸­å›½",èŒ‚åå…¬å…± tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/e71bbf1f-0c1e-4dda-8d08-1ac4020aac79.png"
 http://192.168.96.1:8888/rtp/239.10.0.236:1025
 http://192.168.96.1:8888/rtp/239.11.0.109:1025
-#EXTINF:-1 tvg-id="064"  tvg-name="ÄÏº£ÆµµÀ" group-title="ÖĞ¹ú",ÄÏº£ÆµµÀ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/7dec86e7-21f5-44c6-ab2c-5f60143314f2.png"
+#EXTINF:-1 tvg-id="064" tvg-name="å—æµ·é¢‘é“" group-title="ä¸­å›½",å—æµ·é¢‘é“ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/7dec86e7-21f5-44c6-ab2c-5f60143314f2.png"
 http://192.168.96.1:8888/rtp/239.11.0.110:1025
-#EXTINF:-1 tvg-id="065"  tvg-name="Ë³µÂÆµµÀ" group-title="ÖĞ¹ú",Ë³µÂÆµµÀ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/174e369d-1688-43f5-a853-869c165f69bc.png"
+#EXTINF:-1 tvg-id="065" tvg-name="é¡ºå¾·é¢‘é“" group-title="ä¸­å›½",é¡ºå¾·é¢‘é“ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/174e369d-1688-43f5-a853-869c165f69bc.png"
 http://192.168.96.1:8888/rtp/239.11.0.111:1025
-#EXTINF:-1 tvg-id="066"  tvg-name="·ğÉ½Ó°ÊÓ" group-title="ÖĞ¹ú",·ğÉ½Ó°ÊÓ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/884e2650-1113-4d6f-8e41-cfda5641f261.png"
+#EXTINF:-1 tvg-id="066" tvg-name="ä½›å±±å½±è§†" group-title="ä¸­å›½",ä½›å±±å½±è§† tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/884e2650-1113-4d6f-8e41-cfda5641f261.png"
 http://192.168.96.1:8888/rtp/239.11.0.112:1025
-#EXTINF:-1 tvg-id="067"  tvg-name="·ğÉ½×ÛºÏ" group-title="ÖĞ¹ú",·ğÉ½×ÛºÏ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/39107d48-5be5-450c-aa7b-939660946e33.png"
+#EXTINF:-1 tvg-id="067" tvg-name="ä½›å±±ç»¼åˆ" group-title="ä¸­å›½",ä½›å±±ç»¼åˆ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/39107d48-5be5-450c-aa7b-939660946e33.png"
 http://192.168.96.1:8888/rtp/239.11.0.113:1025
-#EXTINF:-1 tvg-id="068"  tvg-name="ÖĞÉ½×ÛºÏ" group-title="ÖĞ¹ú",ÖĞÉ½×ÛºÏ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/4853bcc6-36e2-4220-93d6-4ec32cb386ec.png"
+#EXTINF:-1 tvg-id="068" tvg-name="ä¸­å±±ç»¼åˆ" group-title="ä¸­å›½",ä¸­å±±ç»¼åˆ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/4853bcc6-36e2-4220-93d6-4ec32cb386ec.png"
 http://192.168.96.1:8888/rtp/239.11.0.119:1025
-#EXTINF:-1 tvg-id="069"  tvg-name="ÖĞÉ½¹«¹²" group-title="ÖĞ¹ú",ÖĞÉ½¹«¹²  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/d7300de0-7d9e-4b8a-ae42-176c5f238972.png"
+#EXTINF:-1 tvg-id="069" tvg-name="ä¸­å±±å…¬å…±" group-title="ä¸­å›½",ä¸­å±±å…¬å…± tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/d7300de0-7d9e-4b8a-ae42-176c5f238972.png"
 http://192.168.96.1:8888/rtp/239.11.0.120:1025
-#EXTINF:-1 tvg-id="070"  tvg-name="ÖĞÉ½½ÌÓı" group-title="ÖĞ¹ú",ÖĞÉ½½ÌÓı  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/45390ad1-8afe-470f-a7db-75b01e90a136.png"
+#EXTINF:-1 tvg-id="070" tvg-name="ä¸­å±±æ•™è‚²" group-title="ä¸­å›½",ä¸­å±±æ•™è‚² tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/45390ad1-8afe-470f-a7db-75b01e90a136.png"
 http://192.168.96.1:8888/rtp/239.11.0.121:1025
-#EXTINF:-1 tvg-id="091"  tvg-name="ÄÏ·½¹ºÎï" group-title="ÖĞ¹ú",ÄÏ·½¹ºÎï  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315590044237506.png"
+#EXTINF:-1 tvg-id="091" tvg-name="å—æ–¹è´­ç‰©" group-title="ä¸­å›½",å—æ–¹è´­ç‰© tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315590044237506.png"
 http://192.168.96.1:8888/rtp/239.10.0.126:1025
-#EXTINF:-1 tvg-id="093"  tvg-name="ÁëÄÏÏ·Çú" group-title="ÖĞ¹ú",ÁëÄÏÏ·Çú  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315584273000012.png"
+#EXTINF:-1 tvg-id="093" tvg-name="å²­å—æˆæ›²" group-title="ä¸­å›½",å²­å—æˆæ›² tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315584273000012.png"
 http://192.168.96.1:8888/rtp/239.10.0.125:1025
-#EXTINF:-1 tvg-id="094"  tvg-name="·¿²úÆµµÀ" group-title="ÖĞ¹ú",·¿²úÆµµÀ  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315422335712330.png"
+#EXTINF:-1 tvg-id="094" tvg-name="æˆ¿äº§é¢‘é“" group-title="ä¸­å›½",æˆ¿äº§é¢‘é“ tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315422335712330.png"
 http://192.168.96.1:8888/rtp/239.10.0.136:1025
-#EXTINF:-1 tvg-id="095"  tvg-name="ÏÖ´ú½ÌÓı" group-title="ÖĞ¹ú",ÏÖ´ú½ÌÓı  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315593115425286.png"
+#EXTINF:-1 tvg-id="095" tvg-name="ç°ä»£æ•™è‚²" group-title="ä¸­å›½",ç°ä»£æ•™è‚² tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315593115425286.png"
 http://192.168.96.1:8888/rtp/239.10.0.138:1025
-#EXTINF:-1 tvg-id="100"  tvg-name="CCTV-1×ÛºÏ" group-title="ÖĞ¹ú",CCTV-1×ÛºÏ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922180102407241.png"
+#EXTINF:-1 tvg-id="100" tvg-name="CCTV-1ç»¼åˆ" group-title="ä¸­å›½",CCTV-1ç»¼åˆ tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922180102407241.png"
 http://192.168.96.1:8888/rtp/239.10.0.202:1025
-#EXTINF:-1 tvg-id="101"  tvg-name="CCTV-2²Æ¾­" group-title="ÖĞ¹ú",CCTV-2²Æ¾­  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922213633091069.png"
+#EXTINF:-1 tvg-id="101" tvg-name="CCTV-2è´¢ç»" group-title="ä¸­å›½",CCTV-2è´¢ç» tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922213633091069.png"
 http://192.168.96.1:8888/rtp/239.10.0.186:1025
-#EXTINF:-1 tvg-id="102"  tvg-name="CCTV-3×ÛÒÕ" group-title="ÖĞ¹ú",CCTV-3×ÛÒÕ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922061107207524.png"
+#EXTINF:-1 tvg-id="102" tvg-name="CCTV-3ç»¼è‰º" group-title="ä¸­å›½",CCTV-3ç»¼è‰º tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922061107207524.png"
 http://192.168.96.1:8888/rtp/239.10.0.107:1025
-#EXTINF:-1 tvg-id="103"  tvg-name="CCTV-4ÖĞÎÄ¹ú¼Ê" group-title="ÖĞ¹ú",CCTV-4ÖĞÎÄ¹ú¼Ê  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922193092679519.png"
+#EXTINF:-1 tvg-id="103" tvg-name="CCTV-4ä¸­æ–‡å›½é™…" group-title="ä¸­å›½",CCTV-4ä¸­æ–‡å›½é™… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922193092679519.png"
 http://192.168.96.1:8888/rtp/239.10.0.187:1025
-#EXTINF:-1 tvg-id="104"  tvg-name="CCTV-5ÌåÓı" group-title="ÖĞ¹ú",CCTV-5ÌåÓı  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922064509828566.png"
+#EXTINF:-1 tvg-id="104" tvg-name="CCTV-5ä½“è‚²" group-title="ä¸­å›½",CCTV-5ä½“è‚² tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922064509828566.png"
 http://192.168.96.1:8888/rtp/239.10.0.108:1025
-#EXTINF:-1 tvg-id="105"  tvg-name="CCTV-6µçÓ°" group-title="ÖĞ¹ú",CCTV-6µçÓ°  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922080980021117.png"
+#EXTINF:-1 tvg-id="105" tvg-name="CCTV-6ç”µå½±" group-title="ä¸­å›½",CCTV-6ç”µå½± tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922080980021117.png"
 http://192.168.96.1:8888/rtp/239.10.0.109:1025
-#EXTINF:-1 tvg-id="106"  tvg-name="CCTV-7¾üÊÂÅ©Òµ" group-title="ÖĞ¹ú",CCTV-7¾üÊÂÅ©Òµ  tvg-logo="http://183.235.16.92:8081/pics/category/201908/01/2019080111325187075381.png"
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV-7å†›äº‹å†œä¸š" group-title="ä¸­å›½",CCTV-7å†›äº‹å†œä¸š tvg-logo="http://183.235.16.92:8081/pics/category/201908/01/2019080111325187075381.png"
 http://192.168.96.1:8888/rtp/239.10.0.188:1025
-#EXTINF:-1 tvg-id="107"  tvg-name="CCTV-8µçÊÓ¾ç" group-title="ÖĞ¹ú",CCTV-8µçÊÓ¾ç  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922071002107368.png"
+#EXTINF:-1 tvg-id="107" tvg-name="CCTV-8ç”µè§†å‰§" group-title="ä¸­å›½",CCTV-8ç”µè§†å‰§ tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922071002107368.png"
 http://192.168.96.1:8888/rtp/239.10.0.110:1025
-#EXTINF:-1 tvg-id="108"  tvg-name="CCTV-9¼ÍÂ¼" group-title="ÖĞ¹ú",CCTV-9¼ÍÂ¼  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922223124535444.png"
+#EXTINF:-1 tvg-id="108" tvg-name="CCTV-9çºªå½•" group-title="ä¸­å›½",CCTV-9çºªå½• tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922223124535444.png"
 http://192.168.96.1:8888/rtp/239.10.0.189:1025
-#EXTINF:-1 tvg-id="109"  tvg-name="CCTV-10¿Æ½Ì" group-title="ÖĞ¹ú",CCTV-10¿Æ½Ì  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922241046566120.png"
+#EXTINF:-1 tvg-id="109" tvg-name="CCTV-10ç§‘æ•™" group-title="ä¸­å›½",CCTV-10ç§‘æ•™ tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922241046566120.png"
 http://192.168.96.1:8888/rtp/239.10.0.190:1025
-#EXTINF:-1 tvg-id="110"  tvg-name="CCTV-11Ï·Çú" group-title="ÖĞ¹ú",CCTV-11Ï·Çú  tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101316035978353222.png"
+#EXTINF:-1 tvg-id="110" tvg-name="CCTV-11æˆæ›²" group-title="ä¸­å›½",CCTV-11æˆæ›² tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101316035978353222.png"
 http://192.168.96.1:8888/rtp/239.10.0.191:1025
-#EXTINF:-1 tvg-id="111"  tvg-name="CCTV-12Éç»áÓë·¨" group-title="ÖĞ¹ú",CCTV-12Éç»áÓë·¨  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922200543715614.png"
+#EXTINF:-1 tvg-id="111" tvg-name="CCTV-12ç¤¾ä¼šä¸æ³•" group-title="ä¸­å›½",CCTV-12ç¤¾ä¼šä¸æ³• tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922200543715614.png"
 http://192.168.96.1:8888/rtp/239.10.0.192:1025
-#EXTINF:-1 tvg-id="112"  tvg-name="CCTV-13ĞÂÎÅ" group-title="ÖĞ¹ú",CCTV-13ĞÂÎÅ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922202929621001.png"
+#EXTINF:-1 tvg-id="112" tvg-name="CCTV-13æ–°é—»" group-title="ä¸­å›½",CCTV-13æ–°é—» tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922202929621001.png"
 http://192.168.96.1:8888/rtp/239.10.0.193:1025
-#EXTINF:-1 tvg-id="113"  tvg-name="CCTV-14ÉÙ¶ù" group-title="ÖĞ¹ú",CCTV-14ÉÙ¶ù  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922205945429574.png"
+#EXTINF:-1 tvg-id="113" tvg-name="CCTV-14å°‘å„¿" group-title="ä¸­å›½",CCTV-14å°‘å„¿ tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922205945429574.png"
 http://192.168.96.1:8888/rtp/239.10.0.194:1025
-#EXTINF:-1 tvg-id="114"  tvg-name="CCTV-15ÒôÀÖ" group-title="ÖĞ¹ú",CCTV-15ÒôÀÖ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922182541517923.png"
+#EXTINF:-1 tvg-id="114" tvg-name="CCTV-15éŸ³ä¹" group-title="ä¸­å›½",CCTV-15éŸ³ä¹ tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922182541517923.png"
 http://192.168.96.1:8888/rtp/239.10.0.195:1025
-#EXTINF:-1 tvg-id="115"  tvg-name="ÖĞ¹ú¹ú¼ÊµçÊÓÌ¨" group-title="ÖĞ¹ú",ÖĞ¹ú¹ú¼ÊµçÊÓÌ¨  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/d196dff2-74b7-4c32-8edc-cf5398193759.png"
+#EXTINF:-1 tvg-id="115" tvg-name="ä¸­å›½å›½é™…ç”µè§†å°" group-title="ä¸­å›½",ä¸­å›½å›½é™…ç”µè§†å° tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/d196dff2-74b7-4c32-8edc-cf5398193759.png"
 http://192.168.96.1:8888/rtp/239.10.0.196:1025
-#EXTINF:-1 tvg-id="116"  tvg-name="CCTV-17" group-title="ÖĞ¹ú",CCTV-17  tvg-logo="http://183.235.16.92:8081/pics/category/201908/01/2019080112590554935014.png"
+#EXTINF:-1 tvg-id="116" tvg-name="CCTV-17" group-title="ä¸­å›½",CCTV-17 tvg-logo="http://183.235.16.92:8081/pics/category/201908/01/2019080112590554935014.png"
 http://192.168.96.1:8888/rtp/239.10.0.243:1025
-#EXTINF:-1 tvg-id="200"  tvg-name="ºşÄÏÎÀÊÓ" group-title="ÖĞ¹ú",ºşÄÏÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092923384304210573.png"
+#EXTINF:-1 tvg-id="200" tvg-name="æ¹–å—å«è§†" group-title="ä¸­å›½",æ¹–å—å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092923384304210573.png"
 http://192.168.96.1:8888/rtp/239.10.0.145:1025
-#EXTINF:-1 tvg-id="201"  tvg-name="Õã½­ÎÀÊÓ" group-title="ÖĞ¹ú",Õã½­ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922243544230973.png"
+#EXTINF:-1 tvg-id="201" tvg-name="æµ™æ±Ÿå«è§†" group-title="ä¸­å›½",æµ™æ±Ÿå«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922243544230973.png"
 http://192.168.96.1:8888/rtp/239.10.0.116:1025
-#EXTINF:-1 tvg-id="202"  tvg-name="½­ËÕÎÀÊÓ" group-title="ÖĞ¹ú",½­ËÕÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922251616512532.png"
+#EXTINF:-1 tvg-id="202" tvg-name="æ±Ÿè‹å«è§†" group-title="ä¸­å›½",æ±Ÿè‹å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922251616512532.png"
 http://192.168.96.1:8888/rtp/239.10.0.117:1025
-#EXTINF:-1 tvg-id="203"  tvg-name="¶«·½ÎÀÊÓ" group-title="ÖĞ¹ú",¶«·½ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922253974665855.png"
+#EXTINF:-1 tvg-id="203" tvg-name="ä¸œæ–¹å«è§†" group-title="ä¸­å›½",ä¸œæ–¹å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922253974665855.png"
 http://192.168.96.1:8888/rtp/239.10.0.118:1025
-#EXTINF:-1 tvg-id="204"  tvg-name="°²»ÕÎÀÊÓ" group-title="ÖĞ¹ú",°²»ÕÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922401070182770.png"
+#EXTINF:-1 tvg-id="204" tvg-name="å®‰å¾½å«è§†" group-title="ä¸­å›½",å®‰å¾½å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922401070182770.png"
 http://192.168.96.1:8888/rtp/239.10.0.146:1025
-#EXTINF:-1 tvg-id="205"  tvg-name="±±¾©ÎÀÊÓ" group-title="ÖĞ¹ú",±±¾©ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922403403027896.png"
+#EXTINF:-1 tvg-id="205" tvg-name="åŒ—äº¬å«è§†" group-title="ä¸­å›½",åŒ—äº¬å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922403403027896.png"
 http://192.168.96.1:8888/rtp/239.10.0.147:1025
-#EXTINF:-1 tvg-id="208"  tvg-name="½­Î÷ÎÀÊÓ" group-title="ÖĞ¹ú",½­Î÷ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922405293792922.png"
+#EXTINF:-1 tvg-id="208" tvg-name="æ±Ÿè¥¿å«è§†" group-title="ä¸­å›½",æ±Ÿè¥¿å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922405293792922.png"
 http://192.168.96.1:8888/rtp/239.10.0.148:1025
-#EXTINF:-1 tvg-id="209"  tvg-name="ÉîÛÚÎÀÊÓ" group-title="ÖĞ¹ú",ÉîÛÚÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092920472879967459.png"
+#EXTINF:-1 tvg-id="209" tvg-name="æ·±åœ³å«è§†" group-title="ä¸­å›½",æ·±åœ³å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092920472879967459.png"
 http://192.168.96.1:8888/rtp/239.10.0.144:1025 
-#EXTINF:-1 tvg-id="215"  tvg-name="ºÓÄÏÎÀÊÓ" group-title="ÖĞ¹ú",ºÓÄÏÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922434295842046.png"
+#EXTINF:-1 tvg-id="215" tvg-name="æ²³å—å«è§†" group-title="ä¸­å›½",æ²³å—å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922434295842046.png"
 http://192.168.96.1:8888/rtp/239.10.0.154:1025
-#EXTINF:-1 tvg-id="216"  tvg-name="ÔÆÄÏÎÀÊÓ" group-title="ÖĞ¹ú",ÔÆÄÏÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922442381249500.png"
+#EXTINF:-1 tvg-id="216" tvg-name="äº‘å—å«è§†" group-title="ä¸­å›½",äº‘å—å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922442381249500.png"
 http://192.168.96.1:8888/rtp/239.10.0.155:1025
-#EXTINF:-1 tvg-id="222"  tvg-name="ÉÂÎ÷ÎÀÊÓ" group-title="ÖĞ¹ú",ÉÂÎ÷ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922481015216868.png"
+#EXTINF:-1 tvg-id="222" tvg-name="é™•è¥¿å«è§†" group-title="ä¸­å›½",é™•è¥¿å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922481015216868.png"
 http://192.168.96.1:8888/rtp/239.10.0.161:1025
-#EXTINF:-1 tvg-id="223"  tvg-name="É½Î÷ÎÀÊÓ" group-title="ÖĞ¹ú",É½Î÷ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922483435613287.png"
+#EXTINF:-1 tvg-id="223" tvg-name="å±±è¥¿å«è§†" group-title="ä¸­å›½",å±±è¥¿å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922483435613287.png"
 http://192.168.96.1:8888/rtp/239.10.0.162:1025
-#EXTINF:-1 tvg-id="224"  tvg-name="ÄÚÃÉ¹ÅÎÀÊÓ" group-title="ÖĞ¹ú",ÄÚÃÉ¹ÅÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922485429698630.png"
+#EXTINF:-1 tvg-id="224" tvg-name="å†…è’™å¤å«è§†" group-title="ä¸­å›½",å†…è’™å¤å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922485429698630.png"
 http://192.168.96.1:8888/rtp/239.10.0.163:1025
-#EXTINF:-1 tvg-id="225"  tvg-name="Çàº£ÎÀÊÓ" group-title="ÖĞ¹ú",Çàº£ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922493479320092.png"
+#EXTINF:-1 tvg-id="225" tvg-name="é’æµ·å«è§†" group-title="ä¸­å›½",é’æµ·å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922493479320092.png"
 http://192.168.96.1:8888/rtp/239.10.0.164:1025
-#EXTINF:-1 tvg-id="226"  tvg-name="º£ÄÏÎÀÊÓ" group-title="ÖĞ¹ú",º£ÄÏÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/202007/03/2020070316384467223435.png"
+#EXTINF:-1 tvg-id="226" tvg-name="æµ·å—å«è§†" group-title="ä¸­å›½",æµ·å—å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/202007/03/2020070316384467223435.png"
 http://192.168.96.1:8888/rtp/239.10.0.165:1025
-#EXTINF:-1 tvg-id="227"  tvg-name="ÄşÏÄÎÀÊÓ" group-title="ÖĞ¹ú",ÄşÏÄÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922504987263844.png"
+#EXTINF:-1 tvg-id="227" tvg-name="å®å¤å«è§†" group-title="ä¸­å›½",å®å¤å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922504987263844.png"
 http://192.168.96.1:8888/rtp/239.10.0.166:1025
-#EXTINF:-1 tvg-id="228"  tvg-name="Î÷²ØÎÀÊÓ" group-title="ÖĞ¹ú",Î÷²ØÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922510637861117.png"
+#EXTINF:-1 tvg-id="228" tvg-name="è¥¿è—å«è§†" group-title="ä¸­å›½",è¥¿è—å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922510637861117.png"
 http://192.168.96.1:8888/rtp/239.10.0.167:1025
-#EXTINF:-1 tvg-id="229"  tvg-name="ĞÂ½®ÎÀÊÓ" group-title="ÖĞ¹ú",ĞÂ½®ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922512522292693.png"
+#EXTINF:-1 tvg-id="229" tvg-name="æ–°ç–†å«è§†" group-title="ä¸­å›½",æ–°ç–†å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922512522292693.png"
 http://192.168.96.1:8888/rtp/239.10.0.168:1025
-#EXTINF:-1 tvg-id="230"  tvg-name="¸ÊËàÎÀÊÓ" group-title="ÖĞ¹ú",¸ÊËàÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922515022547701.png"
+#EXTINF:-1 tvg-id="230" tvg-name="ç”˜è‚ƒå«è§†" group-title="ä¸­å›½",ç”˜è‚ƒå«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922515022547701.png"
 http://192.168.96.1:8888/rtp/239.10.0.169:1025
-#EXTINF:-1 tvg-id="231"  tvg-name="±øÍÅÎÀÊÓ" group-title="ÖĞ¹ú",±øÍÅÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922520901898013.png"
+#EXTINF:-1 tvg-id="231" tvg-name="å…µå›¢å«è§†" group-title="ä¸­å›½",å…µå›¢å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922520901898013.png"
 http://192.168.96.1:8888/rtp/239.10.0.170:1025
-#EXTINF:-1 tvg-id="233"  tvg-name="¿¨¿á¶¯»­" group-title="ÖĞ¹ú",¿¨¿á¶¯»­  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922524909923638.png"
+#EXTINF:-1 tvg-id="233" tvg-name="å¡é…·åŠ¨ç”»" group-title="ä¸­å›½",å¡é…·åŠ¨ç”» tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922524909923638.png"
 http://192.168.96.1:8888/rtp/239.10.0.172:1025
-#EXTINF:-1 tvg-id="234"  tvg-name="½ğÓ¥¿¨Í¨" group-title="ÖĞ¹ú",½ğÓ¥¿¨Í¨  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922530588813339.png"
+#EXTINF:-1 tvg-id="234" tvg-name="é‡‘é¹°å¡é€š" group-title="ä¸­å›½",é‡‘é¹°å¡é€š tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922530588813339.png"
 http://192.168.96.1:8888/rtp/239.10.0.173:1025
-#EXTINF:-1 tvg-id="235"  tvg-name="ìÅ¶¯¿¨Í¨" group-title="ÖĞ¹ú",ìÅ¶¯¿¨Í¨  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922532574208915.png"
+#EXTINF:-1 tvg-id="235" tvg-name="ç‚«åŠ¨å¡é€š" group-title="ä¸­å›½",ç‚«åŠ¨å¡é€š tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922532574208915.png"
 http://192.168.96.1:8888/rtp/239.10.0.174:1025
-#EXTINF:-1 tvg-id="237"  tvg-name="É½¶«½ÌÓı" group-title="ÖĞ¹ú",É½¶«½ÌÓı  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922533023079837.png"
+#EXTINF:-1 tvg-id="237" tvg-name="å±±ä¸œæ•™è‚²" group-title="ä¸­å›½",å±±ä¸œæ•™è‚² tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922533023079837.png"
 http://192.168.96.1:8888/rtp/239.10.0.176:1025
-#EXTINF:-1 tvg-id="238"  tvg-name="²Æ¸»ÌìÏÂ" group-title="ÖĞ¹ú",²Æ¸»ÌìÏÂ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922525089870512.png"
+#EXTINF:-1 tvg-id="238" tvg-name="è´¢å¯Œå¤©ä¸‹" group-title="ä¸­å›½",è´¢å¯Œå¤©ä¸‹ tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922525089870512.png"
 http://192.168.96.1:8888/rtp/239.10.0.177:1025
-#EXTINF:-1 tvg-id="239"  tvg-name="ÏÃÃÅÎÀÊÓ" group-title="ÖĞ¹ú",ÏÃÃÅÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922493726479599.png"
+#EXTINF:-1 tvg-id="239" tvg-name="å¦é—¨å«è§†" group-title="ä¸­å›½",å¦é—¨å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922493726479599.png"
 http://192.168.96.1:8888/rtp/239.10.0.178:1025
-#EXTINF:-1 tvg-id="241"  tvg-name="ÈıÉ³ÎÀÊÓ" group-title="ÖĞ¹ú",ÈıÉ³ÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816585177124750.png"
+#EXTINF:-1 tvg-id="241" tvg-name="ä¸‰æ²™å«è§†" group-title="ä¸­å›½",ä¸‰æ²™å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816585177124750.png"
 http://192.168.96.1:8888/rtp/239.10.0.83:1025
-#EXTINF:-1 tvg-id="242"  tvg-name="¼ªÁÖÑÓ±ßÎÀÊÓ" group-title="ÖĞ¹ú",¼ªÁÖÑÓ±ßÎÀÊÓ  tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816592563302133.png"
+#EXTINF:-1 tvg-id="242" tvg-name="å‰æ—å»¶è¾¹å«è§†" group-title="ä¸­å›½",å‰æ—å»¶è¾¹å«è§† tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816592563302133.png"
 http://192.168.96.1:8888/rtp/239.10.0.140:1025
-#EXTINF:-1 tvg-id="243"  tvg-name="CETV-2" group-title="ÖĞ¹ú",CETV-2  tvg-logo="http://183.235.16.92:8081/pics/category/202002/19/2020021914533583102457.png"
+#EXTINF:-1 tvg-id="243" tvg-name="CETV-2" group-title="ä¸­å›½",CETV-2 tvg-logo="http://183.235.16.92:8081/pics/category/202002/19/2020021914533583102457.png"
 http://192.168.96.1:8888/rtp/239.11.0.35:1025
-#EXTINF:-1 tvg-id="244"  tvg-name="CETV-4" group-title="ÖĞ¹ú",CETV-4  tvg-logo="http://183.235.16.92:8081/pics/category/202002/19/2020021914534696911796.png"
+#EXTINF:-1 tvg-id="244" tvg-name="CETV-4" group-title="ä¸­å›½",CETV-4 tvg-logo="http://183.235.16.92:8081/pics/category/202002/19/2020021914534696911796.png"
 http://192.168.96.1:8888/rtp/239.11.0.36:1025
-#EXTINF:-1 tvg-id="300"  tvg-name="¹ã¶«ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",¹ã¶«ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315465108857883.png"
+#EXTINF:-1 tvg-id="300" tvg-name="å¹¿ä¸œå«è§†é«˜æ¸…" group-title="ä¸­å›½",å¹¿ä¸œå«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315465108857883.png"
 http://192.168.96.1:8888/rtp/239.10.0.111:1025
-#EXTINF:-1 tvg-id="301"  tvg-name="¹ã¶«¾­¼Ã¿Æ½Ì¸ßÇå" group-title="ÖĞ¹ú",¹ã¶«¾­¼Ã¿Æ½Ì¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315552028906606.png"
+#EXTINF:-1 tvg-id="301" tvg-name="å¹¿ä¸œç»æµç§‘æ•™é«˜æ¸…" group-title="ä¸­å›½",å¹¿ä¸œç»æµç§‘æ•™é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315552028906606.png"
 http://192.168.96.1:8888/rtp/239.10.0.112:1025
-#EXTINF:-1 tvg-id="302"  tvg-name="¹ã¶«ÌåÓı¸ßÇå" group-title="ÖĞ¹ú",¹ã¶«ÌåÓı¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315462374819075.png"
+#EXTINF:-1 tvg-id="302" tvg-name="å¹¿ä¸œä½“è‚²é«˜æ¸…" group-title="ä¸­å›½",å¹¿ä¸œä½“è‚²é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315462374819075.png"
 http://192.168.96.1:8888/rtp/239.10.0.113:1025
-#EXTINF:-1 tvg-id="303"  tvg-name="¹ã¶«Öé½­¸ßÇå" group-title="ÖĞ¹ú",¹ã¶«Öé½­¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202004/14/2020041411334778205737.png"
+#EXTINF:-1 tvg-id="303" tvg-name="å¹¿ä¸œç æ±Ÿé«˜æ¸…" group-title="ä¸­å›½",å¹¿ä¸œç æ±Ÿé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202004/14/2020041411334778205737.png"
 http://192.168.96.1:8888/rtp/239.10.0.62:1025
-#EXTINF:-1 tvg-id="304"  tvg-name="ÄÏ·½ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",ÄÏ·½ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-12-22/b3259f44-d406-4898-b40e-134351a982cb.png"
+#EXTINF:-1 tvg-id="304" tvg-name="å—æ–¹å«è§†é«˜æ¸…" group-title="ä¸­å›½",å—æ–¹å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-12-22/b3259f44-d406-4898-b40e-134351a982cb.png"
 http://192.168.96.1:8888/rtp/239.11.0.78:1025
-#EXTINF:-1 tvg-id="305"  tvg-name="¹ã¶«Ó°ÊÓ¸ßÇå" group-title="ÖĞ¹ú",¹ã¶«Ó°ÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-12-22/7fa8a45f-c28b-4112-adf0-61181c70ebe3.png"
+#EXTINF:-1 tvg-id="305" tvg-name="å¹¿ä¸œå½±è§†é«˜æ¸…" group-title="ä¸­å›½",å¹¿ä¸œå½±è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-12-22/7fa8a45f-c28b-4112-adf0-61181c70ebe3.png"
 http://192.168.96.1:8888/rtp/239.11.0.79:1025
-#EXTINF:-1 tvg-id="306"  tvg-name="¹ã¶«¹«¹²¸ßÇå" group-title="ÖĞ¹ú",¹ã¶«¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-12-22/4ae6e399-fcb8-42ad-9150-31167057d90b.png"
+#EXTINF:-1 tvg-id="306" tvg-name="å¹¿ä¸œå…¬å…±é«˜æ¸…" group-title="ä¸­å›½",å¹¿ä¸œå…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-12-22/4ae6e399-fcb8-42ad-9150-31167057d90b.png"
 http://192.168.96.1:8888/rtp/239.11.0.80:1025
-#EXTINF:-1 tvg-id="307"  tvg-name="¹ã¶«ÉÙ¶ù¸ßÇå" group-title="ÖĞ¹ú",¹ã¶«ÉÙ¶ù¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-12-22/0a0f7410-86c7-45a4-8aad-ae6e30a91f2b.png"
+#EXTINF:-1 tvg-id="307" tvg-name="å¹¿ä¸œå°‘å„¿é«˜æ¸…" group-title="ä¸­å›½",å¹¿ä¸œå°‘å„¿é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-12-22/0a0f7410-86c7-45a4-8aad-ae6e30a91f2b.png"
 http://192.168.96.1:8888/rtp/239.11.0.81:1025
-#EXTINF:-1 tvg-id="308"  tvg-name="¹ã¶«ĞÂÎÅ¸ßÇå" group-title="ÖĞ¹ú",¹ã¶«ĞÂÎÅ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-04-12/b53238fd-ce9f-4446-869b-ad499a5db14f.png"
+#EXTINF:-1 tvg-id="308" tvg-name="å¹¿ä¸œæ–°é—»é«˜æ¸…" group-title="ä¸­å›½",å¹¿ä¸œæ–°é—»é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-04-12/b53238fd-ce9f-4446-869b-ad499a5db14f.png"
 http://192.168.96.1:8888/rtp/239.10.0.199:1025
-#EXTINF:-1 tvg-id="310"  tvg-name="¼Î¼Ñ¿¨Í¨¸ßÇå" group-title="ÖĞ¹ú",¼Î¼Ñ¿¨Í¨¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-04-12/aa58a4e4-4f21-45e4-95ee-553763f67f02.png"
+#EXTINF:-1 tvg-id="310" tvg-name="å˜‰ä½³å¡é€šé«˜æ¸…" group-title="ä¸­å›½",å˜‰ä½³å¡é€šé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-04-12/aa58a4e4-4f21-45e4-95ee-553763f67f02.png"
 http://192.168.96.1:8888/rtp/239.10.0.200:1025
-#EXTINF:-1 tvg-id="311"  tvg-name="¹ãÖİ×ÛºÏ¸ßÇå" group-title="ÖĞ¹ú",¹ãÖİ×ÛºÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/a07be909-5ee9-422a-8289-5fcf6f26734d.png"
+#EXTINF:-1 tvg-id="311" tvg-name="å¹¿å·ç»¼åˆé«˜æ¸…" group-title="ä¸­å›½",å¹¿å·ç»¼åˆé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/a07be909-5ee9-422a-8289-5fcf6f26734d.png"
 http://192.168.96.1:8888/rtp/239.11.0.138:1025
-#EXTINF:-1 tvg-id="312"  tvg-name="¹ãÖİĞÂÎÅ¸ßÇå" group-title="ÖĞ¹ú",¹ãÖİĞÂÎÅ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/e2662c03-e9d5-41a3-9c9b-bcbad20041c1.png"
+#EXTINF:-1 tvg-id="312" tvg-name="å¹¿å·æ–°é—»é«˜æ¸…" group-title="ä¸­å›½",å¹¿å·æ–°é—»é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/e2662c03-e9d5-41a3-9c9b-bcbad20041c1.png"
 http://192.168.96.1:8888/rtp/239.11.0.139:1025
-#EXTINF:-1 tvg-id="313"  tvg-name="¹ãÖİÓ°ÊÓ¸ßÇå" group-title="ÖĞ¹ú",¹ãÖİÓ°ÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/75358215-e9b0-4f8a-a618-9e57b2162335.png"
+#EXTINF:-1 tvg-id="313" tvg-name="å¹¿å·å½±è§†é«˜æ¸…" group-title="ä¸­å›½",å¹¿å·å½±è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/75358215-e9b0-4f8a-a618-9e57b2162335.png"
 http://192.168.96.1:8888/rtp/239.11.0.140:1025
-#EXTINF:-1 tvg-id="314"  tvg-name="¹ãÖİ·¨ÖÎ¸ßÇå" group-title="ÖĞ¹ú",¹ãÖİ·¨ÖÎ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/8e4502e5-2a1b-4f05-b26a-e3e4e90ff14f.png"
+#EXTINF:-1 tvg-id="314" tvg-name="å¹¿å·æ³•æ²»é«˜æ¸…" group-title="ä¸­å›½",å¹¿å·æ³•æ²»é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2022-01-24/8e4502e5-2a1b-4f05-b26a-e3e4e90ff14f.png"
 http://192.168.96.1:8888/rtp/239.11.0.141:1025
-#EXTINF:-1 tvg-id="333"  tvg-name="ÉØ¹Ø×ÛºÏ¸ßÇå" group-title="ÖĞ¹ú",ÉØ¹Ø×ÛºÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-11-04/e56deee4-990e-443d-8568-0f01953aed53.png"
+#EXTINF:-1 tvg-id="333" tvg-name="éŸ¶å…³ç»¼åˆé«˜æ¸…" group-title="ä¸­å›½",éŸ¶å…³ç»¼åˆé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-11-04/e56deee4-990e-443d-8568-0f01953aed53.png"
 http://192.168.96.1:8888/rtp/239.11.0.84:1025
-#EXTINF:-1 tvg-id="334"  tvg-name="ÉØ¹Ø¹«¹²¸ßÇå" group-title="ÖĞ¹ú",ÉØ¹Ø¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-11-04/f0aeb9d7-758e-436b-923e-2a2d881e92ee.png"
+#EXTINF:-1 tvg-id="334" tvg-name="éŸ¶å…³å…¬å…±é«˜æ¸…" group-title="ä¸­å›½",éŸ¶å…³å…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2020-11-04/f0aeb9d7-758e-436b-923e-2a2d881e92ee.png"
 http://192.168.96.1:8888/rtp/239.11.0.85:1025
-#EXTINF:-1 tvg-id="337"  tvg-name="Öéº£ĞÂÎÅ×ÛºÏ¸ßÇå" group-title="ÖĞ¹ú",Öéº£ĞÂÎÅ×ÛºÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201908/07/2019080709093201734725.png"
+#EXTINF:-1 tvg-id="337" tvg-name="ç æµ·æ–°é—»ç»¼åˆé«˜æ¸…" group-title="ä¸­å›½",ç æµ·æ–°é—»ç»¼åˆé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201908/07/2019080709093201734725.png"
 http://192.168.96.1:8888/rtp/239.10.0.242:1025
-#EXTINF:-1 tvg-id="338"  tvg-name="Öéº£¹«¹²¸ßÇå" group-title="ÖĞ¹ú",Öéº£¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201908/07/2019080709095850940683.png"
+#EXTINF:-1 tvg-id="338" tvg-name="ç æµ·å…¬å…±é«˜æ¸…" group-title="ä¸­å›½",ç æµ·å…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201908/07/2019080709095850940683.png"
 http://192.168.96.1:8888/rtp/239.10.0.65:1025
-#EXTINF:-1 tvg-id="339"  tvg-name="Õ¿½­ĞÂÎÅ×ÛºÏ¸ßÇå" group-title="ÖĞ¹ú",Õ¿½­ĞÂÎÅ×ÛºÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201907/30/2019073010261377277040.png"
+#EXTINF:-1 tvg-id="339" tvg-name="æ¹›æ±Ÿæ–°é—»ç»¼åˆé«˜æ¸…" group-title="ä¸­å›½",æ¹›æ±Ÿæ–°é—»ç»¼åˆé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201907/30/2019073010261377277040.png"
 http://192.168.96.1:8888/rtp/239.10.0.253:1025
-#EXTINF:-1 tvg-id="340"  tvg-name="Õ¿½­¹«¹²¸ßÇå" group-title="ÖĞ¹ú",Õ¿½­¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201907/30/2019073010262340621258.png"
+#EXTINF:-1 tvg-id="340" tvg-name="æ¹›æ±Ÿå…¬å…±é«˜æ¸…" group-title="ä¸­å›½",æ¹›æ±Ÿå…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201907/30/2019073010262340621258.png"
 http://192.168.96.1:8888/rtp/239.10.0.254:1025
-#EXTINF:-1 tvg-id="341"  tvg-name="ÕØÇìĞÂÎÅ×ÛºÏ¸ßÇå" group-title="ÖĞ¹ú",ÕØÇìĞÂÎÅ×ÛºÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202003/04/2020030416522873605320.png"
+#EXTINF:-1 tvg-id="341" tvg-name="è‚‡åº†æ–°é—»ç»¼åˆé«˜æ¸…" group-title="ä¸­å›½",è‚‡åº†æ–°é—»ç»¼åˆé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202003/04/2020030416522873605320.png"
 http://192.168.96.1:8888/rtp/239.11.0.53:1025
-#EXTINF:-1 tvg-id="342"  tvg-name="ÕØÇì¹«¹²¸ßÇå" group-title="ÖĞ¹ú",ÕØÇì¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202003/04/2020030416505253496115.png"
+#EXTINF:-1 tvg-id="342" tvg-name="è‚‡åº†å…¬å…±é«˜æ¸…" group-title="ä¸­å›½",è‚‡åº†å…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202003/04/2020030416505253496115.png"
 http://192.168.96.1:8888/rtp/239.11.0.54:1025
-#EXTINF:-1 tvg-id="346"  tvg-name="ÇåÔ¶¹«¹²¸ßÇå" group-title="ÖĞ¹ú",ÇåÔ¶¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202008/21/2020082110052566812202.png"
+#EXTINF:-1 tvg-id="346" tvg-name="æ¸…è¿œå…¬å…±é«˜æ¸…" group-title="ä¸­å›½",æ¸…è¿œå…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202008/21/2020082110052566812202.png"
 http://192.168.96.1:8888/rtp/239.11.0.75:1025
 http://192.168.96.1:8888/rtp/239.11.0.96:1025
-#EXTINF:-1 tvg-id="352"  tvg-name="ÔÆ¸¡¹«¹²¸ßÇå" group-title="ÖĞ¹ú",ÔÆ¸¡¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-06-09/7b91e4bb-352e-4887-b4a5-36355100227d.png"
+#EXTINF:-1 tvg-id="352" tvg-name="äº‘æµ®å…¬å…±é«˜æ¸…" group-title="ä¸­å›½",äº‘æµ®å…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-06-09/7b91e4bb-352e-4887-b4a5-36355100227d.png"
 http://192.168.96.1:8888/rtp/239.11.0.97:1025
-#EXTINF:-1 tvg-id="355"  tvg-name="½­ÃÅ×ÛºÏ¸ßÇå" group-title="ÖĞ¹ú",½­ÃÅ×ÛºÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/d887674a-d010-4997-a751-80f6aceb6523.png"
+#EXTINF:-1 tvg-id="355" tvg-name="æ±Ÿé—¨ç»¼åˆé«˜æ¸…" group-title="ä¸­å›½",æ±Ÿé—¨ç»¼åˆé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/d887674a-d010-4997-a751-80f6aceb6523.png"
 http://192.168.96.1:8888/rtp/239.10.0.219:1025
-#EXTINF:-1 tvg-id="356"  tvg-name="½­ÃÅ¹«¹²¸ßÇå" group-title="ÖĞ¹ú",½­ÃÅ¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/67876e9a-8c92-47f0-9e1d-298e08609bbe.png"
+#EXTINF:-1 tvg-id="356" tvg-name="æ±Ÿé—¨å…¬å…±é«˜æ¸…" group-title="ä¸­å›½",æ±Ÿé—¨å…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/67876e9a-8c92-47f0-9e1d-298e08609bbe.png"
 http://192.168.96.1:8888/rtp/239.10.0.139:1025
-#EXTINF:-1 tvg-id="357"  tvg-name="½­ÃÅ½ÌÓı¸ßÇå" group-title="ÖĞ¹ú",½­ÃÅ½ÌÓı¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/f35aa962-8ed3-4f12-a9f5-7e71e797a8ef.png"
+#EXTINF:-1 tvg-id="357" tvg-name="æ±Ÿé—¨æ•™è‚²é«˜æ¸…" group-title="ä¸­å›½",æ±Ÿé—¨æ•™è‚²é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/f35aa962-8ed3-4f12-a9f5-7e71e797a8ef.png"
 http://192.168.96.1:8888/rtp/239.10.0.152:1025
-#EXTINF:-1 tvg-id="358"  tvg-name="Ã¯Ãû×ÛºÏ¸ßÇå" group-title="ÖĞ¹ú",Ã¯Ãû×ÛºÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/f5cd92f1-0bdf-4bda-8943-b91473ef2f45.png"
+#EXTINF:-1 tvg-id="358" tvg-name="èŒ‚åç»¼åˆé«˜æ¸…" group-title="ä¸­å›½",èŒ‚åç»¼åˆé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/f5cd92f1-0bdf-4bda-8943-b91473ef2f45.png"
 http://192.168.96.1:8888/rtp/239.10.0.238:1025
-#EXTINF:-1 tvg-id="359"  tvg-name="Ã¯Ãû¹«¹²¸ßÇå" group-title="ÖĞ¹ú",Ã¯Ãû¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/39f809b5-0814-4045-8783-19d15b6a3aa1.png"
+#EXTINF:-1 tvg-id="359" tvg-name="èŒ‚åå…¬å…±é«˜æ¸…" group-title="ä¸­å›½",èŒ‚åå…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-03-10/39f809b5-0814-4045-8783-19d15b6a3aa1.png"
 http://192.168.96.1:8888/rtp/239.11.0.99:1025
-#EXTINF:-1 tvg-id="363"  tvg-name="·ğÉ½¹«¹²¸ßÇå" group-title="ÖĞ¹ú",·ğÉ½¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/178948f4-7916-4890-b75d-5a5ed5360281.png"
+#EXTINF:-1 tvg-id="363" tvg-name="ä½›å±±å…¬å…±é«˜æ¸…" group-title="ä¸­å›½",ä½›å±±å…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/178948f4-7916-4890-b75d-5a5ed5360281.png"
 http://192.168.96.1:8888/rtp/239.11.0.114:1025
-#EXTINF:-1 tvg-id="364"  tvg-name="ÄÏº£ÆµµÀ¸ßÇå" group-title="ÖĞ¹ú",ÄÏº£ÆµµÀ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/074d8e5e-858e-4ab2-821f-5e74568e2b3d.png"
+#EXTINF:-1 tvg-id="364" tvg-name="å—æµ·é¢‘é“é«˜æ¸…" group-title="ä¸­å›½",å—æµ·é¢‘é“é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/074d8e5e-858e-4ab2-821f-5e74568e2b3d.png"
 http://192.168.96.1:8888/rtp/239.11.0.115:1025
-#EXTINF:-1 tvg-id="365"  tvg-name="Ë³µÂÆµµÀ¸ßÇå" group-title="ÖĞ¹ú",Ë³µÂÆµµÀ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/6a1a019c-737a-4878-b1f9-47c26accab57.png"
+#EXTINF:-1 tvg-id="365" tvg-name="é¡ºå¾·é¢‘é“é«˜æ¸…" group-title="ä¸­å›½",é¡ºå¾·é¢‘é“é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/6a1a019c-737a-4878-b1f9-47c26accab57.png"
 http://192.168.96.1:8888/rtp/239.11.0.116:1025
-#EXTINF:-1 tvg-id="366"  tvg-name="·ğÉ½Ó°ÊÓ¸ßÇå" group-title="ÖĞ¹ú",·ğÉ½Ó°ÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/ebd4b758-cda5-4271-8ffd-4e0e9270fd50.png"
+#EXTINF:-1 tvg-id="366" tvg-name="ä½›å±±å½±è§†é«˜æ¸…" group-title="ä¸­å›½",ä½›å±±å½±è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/ebd4b758-cda5-4271-8ffd-4e0e9270fd50.png"
 http://192.168.96.1:8888/rtp/239.11.0.117:1025
-#EXTINF:-1 tvg-id="367"  tvg-name="·ğÉ½×ÛºÏ¸ßÇå" group-title="ÖĞ¹ú",·ğÉ½×ÛºÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/f1be6b4d-3310-4b4a-92ec-b39ac6c8cd5c.png"
+#EXTINF:-1 tvg-id="367" tvg-name="ä½›å±±ç»¼åˆé«˜æ¸…" group-title="ä¸­å›½",ä½›å±±ç»¼åˆé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-08-20/f1be6b4d-3310-4b4a-92ec-b39ac6c8cd5c.png"
 http://192.168.96.1:8888/rtp/239.11.0.118:1025
-#EXTINF:-1 tvg-id="368"  tvg-name="ÖĞÉ½×ÛºÏ¸ßÇå" group-title="ÖĞ¹ú",ÖĞÉ½×ÛºÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/fcfb6d96-5b85-4906-8918-39383204c37e.png"
+#EXTINF:-1 tvg-id="368" tvg-name="ä¸­å±±ç»¼åˆé«˜æ¸…" group-title="ä¸­å›½",ä¸­å±±ç»¼åˆé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/fcfb6d96-5b85-4906-8918-39383204c37e.png"
 http://192.168.96.1:8888/rtp/239.11.0.122:1025
-#EXTINF:-1 tvg-id="369"  tvg-name="ÖĞÉ½¹«¹²¸ßÇå" group-title="ÖĞ¹ú",ÖĞÉ½¹«¹²¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/50c0b540-64f5-4ded-80ec-c1829a3abcc3.png"
+#EXTINF:-1 tvg-id="369" tvg-name="ä¸­å±±å…¬å…±é«˜æ¸…" group-title="ä¸­å›½",ä¸­å±±å…¬å…±é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/50c0b540-64f5-4ded-80ec-c1829a3abcc3.png"
 http://192.168.96.1:8888/rtp/239.11.0.123:1025
-#EXTINF:-1 tvg-id="370"  tvg-name="ÖĞÉ½½ÌÓı¸ßÇå" group-title="ÖĞ¹ú",ÖĞÉ½½ÌÓı¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/d4b73061-d130-4143-ba46-c58d5a6f07da.png"
+#EXTINF:-1 tvg-id="370" tvg-name="ä¸­å±±æ•™è‚²é«˜æ¸…" group-title="ä¸­å›½",ä¸­å±±æ•™è‚²é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-13/d4b73061-d130-4143-ba46-c58d5a6f07da.png"
 http://192.168.96.1:8888/rtp/239.11.0.124:1025
-#EXTINF:-1 tvg-id="373"  tvg-name="CCTV-1¸ßÇå" group-title="ÖĞ¹ú",CCTV-1¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315512186413389.png"
+#EXTINF:-1 tvg-id="373" tvg-name="CCTV-1é«˜æ¸…" group-title="ä¸­å›½",CCTV-1é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315512186413389.png"
 http://192.168.96.1:8888/rtp/239.10.0.114:1025
-#EXTINF:-1 tvg-id="374"  tvg-name="CCTV5+ÌåÓı¸ßÇå" group-title="ÖĞ¹ú",CCTV5+ÌåÓı¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201610/14/2016101409595894789160.png"
+#EXTINF:-1 tvg-id="374" tvg-name="CCTV5+ä½“è‚²é«˜æ¸…" group-title="ä¸­å›½",CCTV5+ä½“è‚²é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201610/14/2016101409595894789160.png"
 http://192.168.96.1:8888/rtp/239.10.0.213:1025
-#EXTINF:-1 tvg-id="375"  tvg-name="CCTV-2¸ßÇå" group-title="ÖĞ¹ú",CCTV-2¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315550528805389.png"
+#EXTINF:-1 tvg-id="375" tvg-name="CCTV-2é«˜æ¸…" group-title="ä¸­å›½",CCTV-2é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315550528805389.png"
 http://192.168.96.1:8888/rtp/239.10.0.207:1025
-#EXTINF:-1 tvg-id="376"  tvg-name="CCTV-3¸ßÇå" group-title="ÖĞ¹ú",CCTV-3¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032913483634035724.png"
+#EXTINF:-1 tvg-id="376" tvg-name="CCTV-3é«˜æ¸…" group-title="ä¸­å›½",CCTV-3é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032913483634035724.png"
 http://192.168.96.1:8888/rtp/239.10.0.101:1025
-#EXTINF:-1 tvg-id="377"  tvg-name="CCTV-4¸ßÇå" group-title="ÖĞ¹ú",CCTV-4¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/17/2020061709441670594298.png"
+#EXTINF:-1 tvg-id="377" tvg-name="CCTV-4é«˜æ¸…" group-title="ä¸­å›½",CCTV-4é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/17/2020061709441670594298.png"
 http://192.168.96.1:8888/rtp/239.10.0.245:1025
-#EXTINF:-1 tvg-id="378"  tvg-name="CCTV-5¸ßÇå" group-title="ÖĞ¹ú",CCTV-5¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032913490059894805.png"
+#EXTINF:-1 tvg-id="378" tvg-name="CCTV-5é«˜æ¸…" group-title="ä¸­å›½",CCTV-5é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032913490059894805.png"
 http://192.168.96.1:8888/rtp/239.10.0.102:1025
-#EXTINF:-1 tvg-id="379"  tvg-name="CCTV-6¸ßÇå" group-title="ÖĞ¹ú",CCTV-6¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032913493084096147.png"
+#EXTINF:-1 tvg-id="379" tvg-name="CCTV-6é«˜æ¸…" group-title="ä¸­å›½",CCTV-6é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032913493084096147.png"
 http://192.168.96.1:8888/rtp/239.10.0.103:1025
-#EXTINF:-1 tvg-id="380"  tvg-name="CCTV-7¹ú·À¾üÊÂ¸ßÇå" group-title="ÖĞ¹ú",CCTV-7¹ú·À¾üÊÂ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201908/01/2019080111324359336424.png"
+#EXTINF:-1 tvg-id="380" tvg-name="CCTV-7å›½é˜²å†›äº‹é«˜æ¸…" group-title="ä¸­å›½",CCTV-7å›½é˜²å†›äº‹é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201908/01/2019080111324359336424.png"
 http://192.168.96.1:8888/rtp/239.10.0.208:1025
-#EXTINF:-1 tvg-id="381"  tvg-name="CCTV-8¸ßÇå" group-title="ÖĞ¹ú",CCTV-8¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032913494534764512.png"
+#EXTINF:-1 tvg-id="381" tvg-name="CCTV-8é«˜æ¸…" group-title="ä¸­å›½",CCTV-8é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201903/29/2019032913494534764512.png"
 http://192.168.96.1:8888/rtp/239.10.0.104:1025
-#EXTINF:-1 tvg-id="382"  tvg-name="CCTV-9¸ßÇå" group-title="ÖĞ¹ú",CCTV-9¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315540429292491.png"
+#EXTINF:-1 tvg-id="382" tvg-name="CCTV-9é«˜æ¸…" group-title="ä¸­å›½",CCTV-9é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315540429292491.png"
 http://192.168.96.1:8888/rtp/239.10.0.209:1025
-#EXTINF:-1 tvg-id="383"  tvg-name="CCTV-10¸ßÇå" group-title="ÖĞ¹ú",CCTV-10¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315542543145667.png"
+#EXTINF:-1 tvg-id="383" tvg-name="CCTV-10é«˜æ¸…" group-title="ä¸­å›½",CCTV-10é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315542543145667.png"
 http://192.168.96.1:8888/rtp/239.10.0.210:1025
-#EXTINF:-1 tvg-id="384"  tvg-name="CCTV-11¸ßÇå" group-title="ÖĞ¹ú",CCTV-11¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202001/06/2020010615512945690238.png"
+#EXTINF:-1 tvg-id="384" tvg-name="CCTV-11é«˜æ¸…" group-title="ä¸­å›½",CCTV-11é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202001/06/2020010615512945690238.png"
 http://192.168.96.1:8888/rtp/239.11.0.24:1025
-#EXTINF:-1 tvg-id="385"  tvg-name="CCTV-12¸ßÇå" group-title="ÖĞ¹ú",CCTV-12¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315525886902273.png"
+#EXTINF:-1 tvg-id="385" tvg-name="CCTV-12é«˜æ¸…" group-title="ä¸­å›½",CCTV-12é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315525886902273.png"
 http://192.168.96.1:8888/rtp/239.10.0.211:1025
-#EXTINF:-1 tvg-id="386"  tvg-name="CCTV13-¸ßÇå²âÊÔ" group-title="ÖĞ¹ú",CCTV13-¸ßÇå²âÊÔ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-04-23/d1db76fe-8f2f-47c3-b1dd-7245ce6755b2.png"
+#EXTINF:-1 tvg-id="386" tvg-name="CCTV13-é«˜æ¸…æµ‹è¯•" group-title="ä¸­å›½",CCTV13-é«˜æ¸…æµ‹è¯• tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-04-23/d1db76fe-8f2f-47c3-b1dd-7245ce6755b2.png"
 http://192.168.96.1:8888/rtp/239.10.0.198:1025
-#EXTINF:-1 tvg-id="387"  tvg-name="CCTV-14ÉÙ¶ù¸ßÇå" group-title="ÖĞ¹ú",CCTV-14ÉÙ¶ù¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101316001513024644.png"
+#EXTINF:-1 tvg-id="387" tvg-name="CCTV-14å°‘å„¿é«˜æ¸…" group-title="ä¸­å›½",CCTV-14å°‘å„¿é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101316001513024644.png"
 http://192.168.96.1:8888/rtp/239.10.0.212:1025
-#EXTINF:-1 tvg-id="388"  tvg-name="CCTV-15¸ßÇå" group-title="ÖĞ¹ú",CCTV-15¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202001/06/2020010615515688034238.png"
+#EXTINF:-1 tvg-id="388" tvg-name="CCTV-15é«˜æ¸…" group-title="ä¸­å›½",CCTV-15é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202001/06/2020010615515688034238.png"
 http://192.168.96.1:8888/rtp/239.11.0.25:1025
-#EXTINF:-1 tvg-id="389"  tvg-name="IPTV5+¸ßÇå" group-title="ÖĞ¹ú",IPTV5+¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201612/14/2016121417525063051976.png"
+#EXTINF:-1 tvg-id="389" tvg-name="IPTV5+é«˜æ¸…" group-title="ä¸­å›½",IPTV5+é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201612/14/2016121417525063051976.png"
 http://192.168.96.1:8888/rtp/239.10.0.218:1025
-#EXTINF:-1 tvg-id="390"  tvg-name="CCTV-16¸ßÇå²âÊÔ" group-title="ÖĞ¹ú",CCTV-16¸ßÇå²âÊÔ  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-11-03/911f4cdc-901d-4472-b42e-a9a49e459bba.png"
+#EXTINF:-1 tvg-id="390" tvg-name="CCTV-16é«˜æ¸…æµ‹è¯•" group-title="ä¸­å›½",CCTV-16é«˜æ¸…æµ‹è¯• tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-11-03/911f4cdc-901d-4472-b42e-a9a49e459bba.png"
 http://192.168.96.1:8888/rtp/239.11.0.126:1025
-#EXTINF:-1 tvg-id="391"  tvg-name="CCTV-17Å©Òµ¸ßÇå" group-title="ÖĞ¹ú",CCTV-17Å©Òµ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201908/01/2019080112592640262798.png"
+#EXTINF:-1 tvg-id="391" tvg-name="CCTV-17å†œä¸šé«˜æ¸…" group-title="ä¸­å›½",CCTV-17å†œä¸šé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201908/01/2019080112592640262798.png"
 http://192.168.96.1:8888/rtp/239.10.0.244:1025
-#EXTINF:-1 tvg-id="394"  tvg-name="CGTN Ó¢Óï" group-title="ÖĞ¹ú",CGTN Ó¢Óï  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/865422ff-09b2-437a-9160-66c61c4d2008.png"
+#EXTINF:-1 tvg-id="394" tvg-name="CGTN è‹±è¯­" group-title="ä¸­å›½",CGTN è‹±è¯­ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/865422ff-09b2-437a-9160-66c61c4d2008.png"
 http://192.168.96.1:8888/rtp/239.11.0.103:1025
-#EXTINF:-1 tvg-id="396"  tvg-name="CGTN Î÷°àÑÀÓï" group-title="ÖĞ¹ú",CGTN Î÷°àÑÀÓï  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/c454c9da-2b53-45fc-ba73-fdcede416907.png"
+#EXTINF:-1 tvg-id="396" tvg-name="CGTN è¥¿ç­ç‰™è¯­" group-title="ä¸­å›½",CGTN è¥¿ç­ç‰™è¯­ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/c454c9da-2b53-45fc-ba73-fdcede416907.png"
 http://192.168.96.1:8888/rtp/239.11.0.105:1025
-#EXTINF:-1 tvg-id="397"  tvg-name="CGTN ·¨Óï" group-title="ÖĞ¹ú",CGTN ·¨Óï  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/04aac0e1-c4d0-419b-be46-bb047a54c116.png"
+#EXTINF:-1 tvg-id="397" tvg-name="CGTN æ³•è¯­" group-title="ä¸­å›½",CGTN æ³•è¯­ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/04aac0e1-c4d0-419b-be46-bb047a54c116.png"
 http://192.168.96.1:8888/rtp/239.11.0.106:1025
-#EXTINF:-1 tvg-id="398"  tvg-name="CGTN °¢À­²®Óï" group-title="ÖĞ¹ú",CGTN °¢À­²®Óï  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/a959a575-c486-49f3-bc39-4aa587b36445.png"
+#EXTINF:-1 tvg-id="398" tvg-name="CGTN é˜¿æ‹‰ä¼¯è¯­" group-title="ä¸­å›½",CGTN é˜¿æ‹‰ä¼¯è¯­ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/a959a575-c486-49f3-bc39-4aa587b36445.png"
 http://192.168.96.1:8888/rtp/239.11.0.107:1025
-#EXTINF:-1 tvg-id="399"  tvg-name="CGTN ¶íÓï" group-title="ÖĞ¹ú",CGTN ¶íÓï  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/14debdde-e5ef-4ba0-8140-e9941c65505f.png"
+#EXTINF:-1 tvg-id="399" tvg-name="CGTN ä¿„è¯­" group-title="ä¸­å›½",CGTN ä¿„è¯­ tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-07-08/14debdde-e5ef-4ba0-8140-e9941c65505f.png"
 http://192.168.96.1:8888/rtp/239.11.0.108:1025
-#EXTINF:-1 tvg-id="400"  tvg-name="ºşÄÏÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",ºşÄÏÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201610/03/2016100312583853869053.png"
+#EXTINF:-1 tvg-id="400" tvg-name="æ¹–å—å«è§†é«˜æ¸…" group-title="ä¸­å›½",æ¹–å—å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201610/03/2016100312583853869053.png"
 http://192.168.96.1:8888/rtp/239.10.0.115:1025
-#EXTINF:-1 tvg-id="401"  tvg-name="Õã½­ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",Õã½­ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922483667455998.png"
+#EXTINF:-1 tvg-id="401" tvg-name="æµ™æ±Ÿå«è§†é«˜æ¸…" group-title="ä¸­å›½",æµ™æ±Ÿå«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922483667455998.png"
 http://192.168.96.1:8888/rtp/239.10.0.179:1025
-#EXTINF:-1 tvg-id="402"  tvg-name="½­ËÕÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",½­ËÕÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922310201507882.png"
+#EXTINF:-1 tvg-id="402" tvg-name="æ±Ÿè‹å«è§†é«˜æ¸…" group-title="ä¸­å›½",æ±Ÿè‹å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922310201507882.png"
 http://192.168.96.1:8888/rtp/239.10.0.180:1025
-#EXTINF:-1 tvg-id="403"  tvg-name="±±¾©ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",±±¾©ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922323017671880.png"
+#EXTINF:-1 tvg-id="403" tvg-name="åŒ—äº¬å«è§†é«˜æ¸…" group-title="ä¸­å›½",åŒ—äº¬å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922323017671880.png"
 http://192.168.96.1:8888/rtp/239.10.0.131:1025
-#EXTINF:-1 tvg-id="404"  tvg-name="ÉîÛÚÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",ÉîÛÚÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922325873033013.png"
+#EXTINF:-1 tvg-id="404" tvg-name="æ·±åœ³å«è§†é«˜æ¸…" group-title="ä¸­å›½",æ·±åœ³å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922325873033013.png"
 http://192.168.96.1:8888/rtp/239.10.0.132:1025
-#EXTINF:-1 tvg-id="405"  tvg-name="ºÚÁú½­ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",ºÚÁú½­ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922332441375936.png"
+#EXTINF:-1 tvg-id="405" tvg-name="é»‘é¾™æ±Ÿå«è§†é«˜æ¸…" group-title="ä¸­å›½",é»‘é¾™æ±Ÿå«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922332441375936.png"
 http://192.168.96.1:8888/rtp/239.10.0.133:1025
-#EXTINF:-1 tvg-id="406"  tvg-name="ºş±±ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",ºş±±ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922334809510397.png"
+#EXTINF:-1 tvg-id="406" tvg-name="æ¹–åŒ—å«è§†é«˜æ¸…" group-title="ä¸­å›½",æ¹–åŒ—å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922334809510397.png"
 http://192.168.96.1:8888/rtp/239.10.0.134:1025
-#EXTINF:-1 tvg-id="407"  tvg-name="Ìì½òÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",Ìì½òÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922480409285122.png"
+#EXTINF:-1 tvg-id="407" tvg-name="å¤©æ´¥å«è§†é«˜æ¸…" group-title="ä¸­å›½",å¤©æ´¥å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922480409285122.png"
 http://192.168.96.1:8888/rtp/239.10.0.181:1025
-#EXTINF:-1 tvg-id="408"  tvg-name="É½¶«ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",É½¶«ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922471564085518.png"
+#EXTINF:-1 tvg-id="408" tvg-name="å±±ä¸œå«è§†é«˜æ¸…" group-title="ä¸­å›½",å±±ä¸œå«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922471564085518.png"
 http://192.168.96.1:8888/rtp/239.10.0.182:1025
-#EXTINF:-1 tvg-id="409"  tvg-name="¶«·½ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",¶«·½ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922463260923830.png"
+#EXTINF:-1 tvg-id="409" tvg-name="ä¸œæ–¹å«è§†é«˜æ¸…" group-title="ä¸­å›½",ä¸œæ–¹å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922463260923830.png"
 http://192.168.96.1:8888/rtp/239.10.0.183:1025
-#EXTINF:-1 tvg-id="411"  tvg-name="ÁÉÄşÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",ÁÉÄşÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/30/2016093000313600322320.png"
+#EXTINF:-1 tvg-id="411" tvg-name="è¾½å®å«è§†é«˜æ¸…" group-title="ä¸­å›½",è¾½å®å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/30/2016093000313600322320.png"
 http://192.168.96.1:8888/rtp/239.10.0.185:1025
-#EXTINF:-1 tvg-id="412"  tvg-name="ËÄ´¨ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",ËÄ´¨ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922031645345174.png"
+#EXTINF:-1 tvg-id="412" tvg-name="å››å·å«è§†é«˜æ¸…" group-title="ä¸­å›½",å››å·å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922031645345174.png"
 http://192.168.96.1:8888/rtp/239.10.0.204:1025
-#EXTINF:-1 tvg-id="413"  tvg-name="½ğÓ¥¼ÍÊµ¸ßÇå" group-title="ÖĞ¹ú",½ğÓ¥¼ÍÊµ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315562662535460.png"
+#EXTINF:-1 tvg-id="413" tvg-name="é‡‘é¹°çºªå®é«˜æ¸…" group-title="ä¸­å›½",é‡‘é¹°çºªå®é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201610/13/2016101315562662535460.png"
 http://192.168.96.1:8888/rtp/239.10.0.206:1025
-#EXTINF:-1 tvg-id="414"  tvg-name="ÖØÇìÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",ÖØÇìÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922040467881629.png"
+#EXTINF:-1 tvg-id="414" tvg-name="é‡åº†å«è§†é«˜æ¸…" group-title="ä¸­å›½",é‡åº†å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092922040467881629.png"
 http://192.168.96.1:8888/rtp/239.10.0.205:1025
-#EXTINF:-1 tvg-id="415"  tvg-name="°²»ÕÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",°²»ÕÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092920402651910517.png"
+#EXTINF:-1 tvg-id="415" tvg-name="å®‰å¾½å«è§†é«˜æ¸…" group-title="ä¸­å›½",å®‰å¾½å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201609/29/2016092920402651910517.png"
 http://192.168.96.1:8888/rtp/239.10.0.203:1025
-#EXTINF:-1 tvg-id="417"  tvg-name="¹óÖİÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",¹óÖİÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201706/22/2017062218060680079509.png"
+#EXTINF:-1 tvg-id="417" tvg-name="è´µå·å«è§†é«˜æ¸…" group-title="ä¸­å›½",è´µå·å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201706/22/2017062218060680079509.png"
 http://192.168.96.1:8888/rtp/239.10.0.222:1025
-#EXTINF:-1 tvg-id="418"  tvg-name="ÖĞ¹ú½ÌÓı-1¸ßÇå" group-title="ÖĞ¹ú",ÖĞ¹ú½ÌÓı-1¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201706/22/2017062218064859858234.png"
+#EXTINF:-1 tvg-id="418" tvg-name="ä¸­å›½æ•™è‚²-1é«˜æ¸…" group-title="ä¸­å›½",ä¸­å›½æ•™è‚²-1é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201706/22/2017062218064859858234.png"
 http://192.168.96.1:8888/rtp/239.10.0.223:1025
-#EXTINF:-1 tvg-id="419"  tvg-name="ÖĞ¹ú½»Í¨" group-title="ÖĞ¹ú",ÖĞ¹ú½»Í¨  tvg-logo="http://183.235.16.92:8081/pics/category/201809/06/2018090615311908901104.png"
+#EXTINF:-1 tvg-id="419" tvg-name="ä¸­å›½äº¤é€š" group-title="ä¸­å›½",ä¸­å›½äº¤é€š tvg-logo="http://183.235.16.92:8081/pics/category/201809/06/2018090615311908901104.png"
 http://192.168.96.1:8888/rtp/239.10.0.72:1025
-#EXTINF:-1 tvg-id="421"  tvg-name="¸£½¨¶«ÄÏÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",¸£½¨¶«ÄÏÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816581942839832.png"
+#EXTINF:-1 tvg-id="421" tvg-name="ç¦å»ºä¸œå—å«è§†é«˜æ¸…" group-title="ä¸­å›½",ç¦å»ºä¸œå—å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816581942839832.png"
 http://192.168.96.1:8888/rtp/239.10.0.77:1025
-#EXTINF:-1 tvg-id="422"  tvg-name="ÉÏº£¼ÍÊµ¸ßÇå" group-title="ÖĞ¹ú",ÉÏº£¼ÍÊµ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816573238700441.png"
+#EXTINF:-1 tvg-id="422" tvg-name="ä¸Šæµ·çºªå®é«˜æ¸…" group-title="ä¸­å›½",ä¸Šæµ·çºªå®é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816573238700441.png"
 http://192.168.96.1:8888/rtp/239.10.0.78:1025
-#EXTINF:-1 tvg-id="423"  tvg-name="ºÓ±±HD" group-title="ÖĞ¹ú",ºÓ±±HD  tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816574677894379.png"
+#EXTINF:-1 tvg-id="423" tvg-name="æ²³åŒ—HD" group-title="ä¸­å›½",æ²³åŒ—HD tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816574677894379.png"
 http://192.168.96.1:8888/rtp/239.10.0.79:1025
-#EXTINF:-1 tvg-id="424"  tvg-name="½­Î÷ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",½­Î÷ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816580047899833.png"
+#EXTINF:-1 tvg-id="424" tvg-name="æ±Ÿè¥¿å«è§†é«˜æ¸…" group-title="ä¸­å›½",æ±Ÿè¥¿å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816580047899833.png"
 http://192.168.96.1:8888/rtp/239.10.0.80:1025
-#EXTINF:-1 tvg-id="425"  tvg-name="¼ªÁÖÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",¼ªÁÖÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816583561267962.png"
+#EXTINF:-1 tvg-id="425" tvg-name="å‰æ—å«è§†é«˜æ¸…" group-title="ä¸­å›½",å‰æ—å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201811/28/2018112816583561267962.png"
 http://192.168.96.1:8888/rtp/239.10.0.81:1025
-#EXTINF:-1 tvg-id="427"  tvg-name="¹ãÎ÷ÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",¹ãÎ÷ÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/201905/17/2019051716194084564265.png"
+#EXTINF:-1 tvg-id="427" tvg-name="å¹¿è¥¿å«è§†é«˜æ¸…" group-title="ä¸­å›½",å¹¿è¥¿å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201905/17/2019051716194084564265.png"
 http://192.168.96.1:8888/rtp/239.10.0.246:1025
-#EXTINF:-1 tvg-id="429"  tvg-name="ºÓÄÏÎÀÊÓ¸ßÇå" group-title="ÖĞ¹ú",ºÓÄÏÎÀÊÓ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-05-24/93575310-d71e-44fb-bb9d-5a0a87d95100.png"
+#EXTINF:-1 tvg-id="429" tvg-name="æ²³å—å«è§†é«˜æ¸…" group-title="ä¸­å›½",æ²³å—å«è§†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-05-24/93575310-d71e-44fb-bb9d-5a0a87d95100.png"
 http://192.168.96.1:8888/rtp/239.11.0.94:1025
-#EXTINF:-1 tvg-id="432"  tvg-name="½ğÓ¥¿¨Í¨¸ßÇå" group-title="ÖĞ¹ú",½ğÓ¥¿¨Í¨¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-29/82f6d1e9-c245-41f6-8800-ac37e0e1fbcd.png"
+#EXTINF:-1 tvg-id="432" tvg-name="é‡‘é¹°å¡é€šé«˜æ¸…" group-title="ä¸­å›½",é‡‘é¹°å¡é€šé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-10-29/82f6d1e9-c245-41f6-8800-ac37e0e1fbcd.png"
 http://192.168.96.1:8888/rtp/239.11.0.125:1025
-#EXTINF:-1 tvg-id="500"  tvg-name="¹ã¶«ÎÀÊÓ³¬Çå" group-title="ÖĞ¹ú",¹ã¶«ÎÀÊÓ³¬Çå  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315490158258713.png"
+#EXTINF:-1 tvg-id="500" tvg-name="å¹¿ä¸œå«è§†è¶…æ¸…" group-title="ä¸­å›½",å¹¿ä¸œå«è§†è¶…æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315490158258713.png"
 http://192.168.96.1:8888/rtp/239.10.0.45:1025
-#EXTINF:-1 tvg-id="501"  tvg-name="¹ã¶«¾­¼Ã¿Æ½Ì³¬Çå" group-title="ÖĞ¹ú",¹ã¶«¾­¼Ã¿Æ½Ì³¬Çå  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315555447942886.png"
+#EXTINF:-1 tvg-id="501" tvg-name="å¹¿ä¸œç»æµç§‘æ•™è¶…æ¸…" group-title="ä¸­å›½",å¹¿ä¸œç»æµç§‘æ•™è¶…æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315555447942886.png"
 http://192.168.96.1:8888/rtp/239.10.0.46:1025
-#EXTINF:-1 tvg-id="502"  tvg-name="¹ã¶«ÌåÓı³¬Çå" group-title="ÖĞ¹ú",¹ã¶«ÌåÓı³¬Çå  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315463113066359.png"
+#EXTINF:-1 tvg-id="502" tvg-name="å¹¿ä¸œä½“è‚²è¶…æ¸…" group-title="ä¸­å›½",å¹¿ä¸œä½“è‚²è¶…æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315463113066359.png"
 http://192.168.96.1:8888/rtp/239.10.0.47:1025
-#EXTINF:-1 tvg-id="503"  tvg-name="¹ã¶«Öé½­³¬Çå" group-title="ÖĞ¹ú",¹ã¶«Öé½­³¬Çå  tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315505750141188.png"
+#EXTINF:-1 tvg-id="503" tvg-name="å¹¿ä¸œç æ±Ÿè¶…æ¸…" group-title="ä¸­å›½",å¹¿ä¸œç æ±Ÿè¶…æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/201912/13/2019121315505750141188.png"
 http://192.168.96.1:8888/rtp/239.10.0.63:1025
-#EXTINF:-1 tvg-id="600"  tvg-name="IPTVµıÕ½¾ç³¡" group-title="ÖĞ¹ú",IPTVµıÕ½¾ç³¡  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815324737448958.png"
+#EXTINF:-1 tvg-id="600" tvg-name="IPTVè°æˆ˜å‰§åœº" group-title="ä¸­å›½",IPTVè°æˆ˜å‰§åœº tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815324737448958.png"
 http://192.168.96.1:8888/rtp/239.10.0.8:1025
-#EXTINF:-1 tvg-id="601"  tvg-name="IPTVÏàÉùĞ¡Æ·" group-title="ÖĞ¹ú",IPTVÏàÉùĞ¡Æ·  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815304569835027.png"
+#EXTINF:-1 tvg-id="601" tvg-name="IPTVç›¸å£°å°å“" group-title="ä¸­å›½",IPTVç›¸å£°å°å“ tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815304569835027.png"
 http://192.168.96.1:8888/rtp/239.10.0.9:1025
-#EXTINF:-1 tvg-id="602"  tvg-name="IPTVÒ°Íâ" group-title="ÖĞ¹ú",IPTVÒ°Íâ  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815310013729062.png"
+#EXTINF:-1 tvg-id="602" tvg-name="IPTVé‡å¤–" group-title="ä¸­å›½",IPTVé‡å¤– tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815310013729062.png"
 http://192.168.96.1:8888/rtp/239.10.0.10:1025
-#EXTINF:-1 tvg-id="603"  tvg-name="IPTV·¨ÖÎ" group-title="ÖĞ¹ú",IPTV·¨ÖÎ  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815311052567688.png"
+#EXTINF:-1 tvg-id="603" tvg-name="IPTVæ³•æ²»" group-title="ä¸­å›½",IPTVæ³•æ²» tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815311052567688.png"
 http://192.168.96.1:8888/rtp/239.10.0.11:1025
-#EXTINF:-1 tvg-id="604"  tvg-name="IPTV6+" group-title="ÖĞ¹ú",IPTV6+  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815311950731104.png"
+#EXTINF:-1 tvg-id="604" tvg-name="IPTV6+" group-title="ä¸­å›½",IPTV6+ tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815311950731104.png"
 http://192.168.96.1:8888/rtp/239.10.0.12:1025
-#EXTINF:-1 tvg-id="605"  tvg-name="¾­µäµçÓ°" group-title="ÖĞ¹ú",¾­µäµçÓ°  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815312970903087.png"
+#EXTINF:-1 tvg-id="605" tvg-name="ç»å…¸ç”µå½±" group-title="ä¸­å›½",ç»å…¸ç”µå½± tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815312970903087.png"
 http://192.168.96.1:8888/rtp/239.10.0.13:1025
-#EXTINF:-1 tvg-id="606"  tvg-name="IPTV8+" group-title="ÖĞ¹ú",IPTV8+  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815313775513345.png"
+#EXTINF:-1 tvg-id="606" tvg-name="IPTV8+" group-title="ä¸­å›½",IPTV8+ tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815313775513345.png"
 http://192.168.96.1:8888/rtp/239.10.0.14:1025
-#EXTINF:-1 tvg-id="607"  tvg-name="ÈÈ²¥¾ç³¡" group-title="ÖĞ¹ú",ÈÈ²¥¾ç³¡  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815315002454266.png"
+#EXTINF:-1 tvg-id="607" tvg-name="çƒ­æ’­å‰§åœº" group-title="ä¸­å›½",çƒ­æ’­å‰§åœº tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815315002454266.png"
 http://192.168.96.1:8888/rtp/239.10.0.15:1025
-#EXTINF:-1 tvg-id="608"  tvg-name="IPTV3+" group-title="ÖĞ¹ú",IPTV3+  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815315705725657.png"
+#EXTINF:-1 tvg-id="608" tvg-name="IPTV3+" group-title="ä¸­å›½",IPTV3+ tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815315705725657.png"
 http://192.168.96.1:8888/rtp/239.10.0.16:1025
-#EXTINF:-1 tvg-id="609"  tvg-name="IPTV5+" group-title="ÖĞ¹ú",IPTV5+  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815355544648228.png"
+#EXTINF:-1 tvg-id="609" tvg-name="IPTV5+" group-title="ä¸­å›½",IPTV5+ tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815355544648228.png"
 http://192.168.96.1:8888/rtp/239.10.0.17:1025
-#EXTINF:-1 tvg-id="610"  tvg-name="ÉÙ¶ù¶¯»­" group-title="ÖĞ¹ú",ÉÙ¶ù¶¯»­  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815321620754390.png"
+#EXTINF:-1 tvg-id="610" tvg-name="å°‘å„¿åŠ¨ç”»" group-title="ä¸­å›½",å°‘å„¿åŠ¨ç”» tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815321620754390.png"
 http://192.168.96.1:8888/rtp/239.10.0.18:1025
-#EXTINF:-1 tvg-id="611"  tvg-name="÷ÈÁ¦Ê±ÉĞ" group-title="ÖĞ¹ú",÷ÈÁ¦Ê±ÉĞ  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815322782009249.png"
+#EXTINF:-1 tvg-id="611" tvg-name="é­…åŠ›æ—¶å°š" group-title="ä¸­å›½",é­…åŠ›æ—¶å°š tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815322782009249.png"
 http://192.168.96.1:8888/rtp/239.10.0.19:1025
-#EXTINF:-1 tvg-id="612"  tvg-name="ÊÕÊÓÖ¸ÄÏ" group-title="ÖĞ¹ú",ÊÕÊÓÖ¸ÄÏ  tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815323827810747.png"
+#EXTINF:-1 tvg-id="612" tvg-name="æ”¶è§†æŒ‡å—" group-title="ä¸­å›½",æ”¶è§†æŒ‡å— tvg-logo="http://183.235.16.92:8081/pics/category/201711/08/2017110815323827810747.png"
 http://192.168.96.1:8888/rtp/239.10.0.20:1025
-#EXTINF:-1 tvg-id="809"  tvg-name="ÆûÄ¦" group-title="ÖĞ¹ú",ÆûÄ¦  tvg-logo="http://183.235.16.92:8081/pics/category/201706/15/2017061515020218094427.png"
+#EXTINF:-1 tvg-id="809" tvg-name="æ±½æ‘©" group-title="ä¸­å›½",æ±½æ‘© tvg-logo="http://183.235.16.92:8081/pics/category/201706/15/2017061515020218094427.png"
 http://192.168.96.1:8888/rtp/239.10.0.232:1025
-#EXTINF:-1 tvg-id="811"  tvg-name="ÓÎÏ·¾º¼¼" group-title="ÖĞ¹ú",ÓÎÏ·¾º¼¼  tvg-logo="http://183.235.16.92:8081/pics/category/202006/05/2020060516342113758723.png"
+#EXTINF:-1 tvg-id="811" tvg-name="æ¸¸æˆç«æŠ€" group-title="ä¸­å›½",æ¸¸æˆç«æŠ€ tvg-logo="http://183.235.16.92:8081/pics/category/202006/05/2020060516342113758723.png"
 http://192.168.96.1:8888/rtp/239.10.0.24:1025
-#EXTINF:-1 tvg-id="812"  tvg-name="ö¦×±" group-title="ÖĞ¹ú",ö¦×±  tvg-logo="http://183.235.16.92:8081/pics/category/201801/22/2018012209295084832212.png"
+#EXTINF:-1 tvg-id="812" tvg-name="é“å¦†" group-title="ä¸­å›½",é“å¦† tvg-logo="http://183.235.16.92:8081/pics/category/201801/22/2018012209295084832212.png"
 http://192.168.96.1:8888/rtp/239.10.0.25:1025
-#EXTINF:-1 tvg-id="820"  tvg-name="ÀÏ¹ÊÊÂ" group-title="ÖĞ¹ú",ÀÏ¹ÊÊÂ  tvg-logo="http://183.235.16.92:8081/pics/category/202007/22/2020072209510833875490.png"
+#EXTINF:-1 tvg-id="820" tvg-name="è€æ•…äº‹" group-title="ä¸­å›½",è€æ•…äº‹ tvg-logo="http://183.235.16.92:8081/pics/category/202007/22/2020072209510833875490.png"
 http://192.168.96.1:8888/rtp/239.10.0.33:1025
-#EXTINF:-1 tvg-id="824"  tvg-name="»·ÇòÆæ¹Û" group-title="ÖĞ¹ú",»·ÇòÆæ¹Û  tvg-logo="http://183.235.16.92:8081/pics/category/201801/22/2018012209314388114760.png"
+#EXTINF:-1 tvg-id="824" tvg-name="ç¯çƒå¥‡è§‚" group-title="ä¸­å›½",ç¯çƒå¥‡è§‚ tvg-logo="http://183.235.16.92:8081/pics/category/201801/22/2018012209314388114760.png"
 http://192.168.96.1:8888/rtp/239.10.0.36:1025
-#EXTINF:-1 tvg-id="826"  tvg-name="¹úÑ§ÆµµÀ" group-title="ÖĞ¹ú",¹úÑ§ÆµµÀ  tvg-logo="http://183.235.16.92:8081/pics/category/201801/22/2018012210140648108532.png"
+#EXTINF:-1 tvg-id="826" tvg-name="å›½å­¦é¢‘é“" group-title="ä¸­å›½",å›½å­¦é¢‘é“ tvg-logo="http://183.235.16.92:8081/pics/category/201801/22/2018012210140648108532.png"
 http://192.168.96.1:8888/rtp/239.10.0.38:1025
-#EXTINF:-1 tvg-id="830"  tvg-name="±øÆ÷¿Æ¼¼¸ßÇå" group-title="ÖĞ¹ú",±øÆ÷¿Æ¼¼¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214213725009343.png"
+#EXTINF:-1 tvg-id="830" tvg-name="å…µå™¨ç§‘æŠ€é«˜æ¸…" group-title="ä¸­å›½",å…µå™¨ç§‘æŠ€é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214213725009343.png"
 http://192.168.96.1:8888/rtp/239.11.0.57:1025
-#EXTINF:-1 tvg-id="831"  tvg-name="µçÊÓÖ¸ÄÏ¸ßÇå" group-title="ÖĞ¹ú",µçÊÓÖ¸ÄÏ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214204513077320.png"
+#EXTINF:-1 tvg-id="831" tvg-name="ç”µè§†æŒ‡å—é«˜æ¸…" group-title="ä¸­å›½",ç”µè§†æŒ‡å—é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214204513077320.png"
 http://192.168.96.1:8888/rtp/239.11.0.58:1025
-#EXTINF:-1 tvg-id="832"  tvg-name="·çÔÆ×ãÇò¸ßÇå" group-title="ÖĞ¹ú",·çÔÆ×ãÇò¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214194426066042.png"
+#EXTINF:-1 tvg-id="832" tvg-name="é£äº‘è¶³çƒé«˜æ¸…" group-title="ä¸­å›½",é£äº‘è¶³çƒé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214194426066042.png"
 http://192.168.96.1:8888/rtp/239.11.0.59:1025
-#EXTINF:-1 tvg-id="833"  tvg-name="ÑëÊÓÌ¨Çò¸ßÇå" group-title="ÖĞ¹ú",ÑëÊÓÌ¨Çò¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214184693397509.png"
+#EXTINF:-1 tvg-id="833" tvg-name="å¤®è§†å°çƒé«˜æ¸…" group-title="ä¸­å›½",å¤®è§†å°çƒé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214184693397509.png"
 http://192.168.96.1:8888/rtp/239.11.0.60:1025
-#EXTINF:-1 tvg-id="834"  tvg-name="¸ß¶û·òÍøÇò¸ßÇå" group-title="ÖĞ¹ú",¸ß¶û·òÍøÇò¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214171958032163.png"
+#EXTINF:-1 tvg-id="834" tvg-name="é«˜å°”å¤«ç½‘çƒé«˜æ¸…" group-title="ä¸­å›½",é«˜å°”å¤«ç½‘çƒé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214171958032163.png"
 http://192.168.96.1:8888/rtp/239.11.0.61:1025
-#EXTINF:-1 tvg-id="835"  tvg-name="Å®ĞÔÊ±ÉĞ¸ßÇå" group-title="ÖĞ¹ú",Å®ĞÔÊ±ÉĞ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214151282684183.png"
+#EXTINF:-1 tvg-id="835" tvg-name="å¥³æ€§æ—¶å°šé«˜æ¸…" group-title="ä¸­å›½",å¥³æ€§æ—¶å°šé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062214151282684183.png"
 http://192.168.96.1:8888/rtp/239.11.0.62:1025
-#EXTINF:-1 tvg-id="836"  tvg-name="ÊÀ½çµØÀí¸ßÇå" group-title="ÖĞ¹ú",ÊÀ½çµØÀí¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211404383907475.png"
+#EXTINF:-1 tvg-id="836" tvg-name="ä¸–ç•Œåœ°ç†é«˜æ¸…" group-title="ä¸­å›½",ä¸–ç•Œåœ°ç†é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211404383907475.png"
 http://192.168.96.1:8888/rtp/239.11.0.63:1025
-#EXTINF:-1 tvg-id="837"  tvg-name="»³¾É¾ç³¡¸ßÇå" group-title="ÖĞ¹ú",»³¾É¾ç³¡¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211394429987033.png"
+#EXTINF:-1 tvg-id="837" tvg-name="æ€€æ—§å‰§åœºé«˜æ¸…" group-title="ä¸­å›½",æ€€æ—§å‰§åœºé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211394429987033.png"
 http://192.168.96.1:8888/rtp/239.11.0.64:1025
-#EXTINF:-1 tvg-id="838"  tvg-name="·çÔÆ¾ç³¡¸ßÇå" group-title="ÖĞ¹ú",·çÔÆ¾ç³¡¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211384216418036.png"
+#EXTINF:-1 tvg-id="838" tvg-name="é£äº‘å‰§åœºé«˜æ¸…" group-title="ä¸­å›½",é£äº‘å‰§åœºé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211384216418036.png"
 http://192.168.96.1:8888/rtp/239.11.0.65:1025
-#EXTINF:-1 tvg-id="839"  tvg-name="ÑëÊÓ¾«Æ·¸ßÇå" group-title="ÖĞ¹ú",ÑëÊÓ¾«Æ·¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211373276119021.png"
+#EXTINF:-1 tvg-id="839" tvg-name="å¤®è§†ç²¾å“é«˜æ¸…" group-title="ä¸­å›½",å¤®è§†ç²¾å“é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211373276119021.png"
 http://192.168.96.1:8888/rtp/239.11.0.66:1025
-#EXTINF:-1 tvg-id="840"  tvg-name="µÚÒ»¾ç³¡¸ßÇå" group-title="ÖĞ¹ú",µÚÒ»¾ç³¡¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211345327396589.png"
+#EXTINF:-1 tvg-id="840" tvg-name="ç¬¬ä¸€å‰§åœºé«˜æ¸…" group-title="ä¸­å›½",ç¬¬ä¸€å‰§åœºé«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211345327396589.png"
 http://192.168.96.1:8888/rtp/239.11.0.67:1025
-#EXTINF:-1 tvg-id="841"  tvg-name="·çÔÆÒôÀÖ¸ßÇå" group-title="ÖĞ¹ú",·çÔÆÒôÀÖ¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211334186315675.png"
+#EXTINF:-1 tvg-id="841" tvg-name="é£äº‘éŸ³ä¹é«˜æ¸…" group-title="ä¸­å›½",é£äº‘éŸ³ä¹é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/category/202006/22/2020062211334186315675.png"
 http://192.168.96.1:8888/rtp/239.11.0.68:1025
-#EXTINF:-1 tvg-id="842"  tvg-name="ÔçÆÚ½ÌÓı¸ßÇå" group-title="ÖĞ¹ú",ÔçÆÚ½ÌÓı¸ßÇå  tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-06-24/d0b35736-3f04-4352-a94b-74390ae08b9e.png"
+#EXTINF:-1 tvg-id="842" tvg-name="æ—©æœŸæ•™è‚²é«˜æ¸…" group-title="ä¸­å›½",æ—©æœŸæ•™è‚²é«˜æ¸… tvg-logo="http://183.235.16.92:8081/pics/micro-picture/channel/2021-06-24/d0b35736-3f04-4352-a94b-74390ae08b9e.png"
 http://192.168.96.1:8888/rtp/239.11.0.100:1025
